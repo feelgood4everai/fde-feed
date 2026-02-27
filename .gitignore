@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (large files)
+*.tar.gz
+*.zip
+
+# Secrets
+.env
+.env.local
+
+# LinkedIn posts (local only)
+linkedin-posts/
+LINKEDIN_POST.txt
+
+# Logs
+*.log
+logs/

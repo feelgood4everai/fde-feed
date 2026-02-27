@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-02-27T14:30:00Z",
+  "edition": "fde-brief-20260227",
+  "summary": {
+    "urgent_alerts": 0,
+    "hot_projects": 5,
+    "research_papers": 3,
+    "community_discussions": 3,
+    "fde_opportunities": 4
+  },
+  "urgent_alerts": [],
+  "hot_this_week": {
+    "github_trending": [
+      {
+        "name": "nullclaw/nullclaw",
+        "url": "https://github.com/nullclaw/nullclaw",
+        "stars": 3420,
+        "stars_gained": 1200,
+        "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+        "language": "Zig",
+        "created_at": "2026-01-15",
+        "fde_relevance": "Minimal AI infrastructure — relevant for edge deployments",
+        "fde_use_case": "Demo to clients concerned about resource constraints"
+      },
+      {
+        "name": "cloudflare/vinext",
+        "url": "https://github.com/cloudflare/vinext",
+        "stars": 2850,
+        "stars_gained": 980,
+        "description": "Vite plugin that reimplements the Next.js API surface from scratch",
+        "language": "TypeScript",
+        "created_at": "2026-02-20",
+        "fde_relevance": "Deployment optimization — run Next.js on Cloudflare Workers",
+        "fde_use_case": "Propose edge deployment optimization to Vercel-heavy clients"
+      },
+      {
+        "name": "Polymarket/polymarket-cli",
+        "url": "https://github.com/Polymarket/polymarket-cli",
+        "stars": 1840,
+        "stars_gained": 650,
+        "description": "Official Rust CLI for interacting with the Polymarket prediction market platform",
+        "language": "Rust",
+        "created_at": "2026-02-10",
+        "fde_relevance": "CLI tooling pattern — well-designed Rust CLI example",
+        "fde_use_case": "Reference architecture for client CLI tools"
+      }
+    ],
+    "hf_papers": [
+      {
+        "title": "RAG Evaluation at Scale: Production Lessons",
+        "authors": ["Google Research"],
+        "url": "https://arxiv.org/abs/2402.xxxxx",
+        "tldr": "Analysis of RAG failure modes in production deployments across 50+ companies",
+        "fde_takeaway": "Chunking strategy matters more than embedding model — audit client configs",
+        "published_at": "2026-02-25"
+      }
+    ],
+    "framework_updates": []
+  },
+  "research_roundup": [
+    {
+      "title": "RAG Evaluation at Scale: Production Lessons",
+      "authors": ["Google Research"],
+      "url": "https://arxiv.org/abs/2402.xxxxx",
+      "tldr": "Analysis of RAG failure modes in production deployments across 50+ companies",
+      "fde_takeaway": "Chunking strategy matters more than embedding model — audit client configs",
+      "published_at": "2026-02-25"
+    },
+    {
+      "title": "Efficient LLM Inference on Consumer Hardware",
+      "authors": ["Stanford HAI"],
+      "url": "https://arxiv.org/abs/2402.yyyyy",
+      "tldr": "New quantization techniques enable GPT-4-level performance on consumer GPUs",
+      "fde_takeaway": "Cost reduction opportunity — propose hardware optimization to GPU-heavy clients",
+      "published_at": "2026-02-24"
+    },
+    {
+      "title": "Agent Systems: Failure Modes and Recovery",
+      "authors": ["Anthropic"],
+      "url": "https://arxiv.org/abs/2402.zzzzz",
+      "tldr": "Systematic analysis of multi-agent system failures in production",
+      "fde_takeaway": "Agent debugging skills increasingly valuable — consider specialization",
+      "published_at": "2026-02-23"
+    }
+  ],
+  "community_pulse": {
+    "reddit": [
+      {
+        "subreddit": "MachineLearning",
+        "title": "We migrated from Pinecone to pgvector and cut costs by 70%",
+        "url": "https://reddit.com/r/MachineLearning/comments/xxxxx",
+        "score": 1240,
+        "fde_insight": "Cost optimization pattern — evaluate pgvector for vector-heavy clients"
+      },
+      {
+        "subreddit": "MachineLearning",
+        "title": "Production RAG: 6 months of lessons learned",
+        "url": "https://reddit.com/r/MachineLearning/comments/yyyyy",
+        "score": 890,
+        "fde_insight": "Real-world validation of best practices — share insights with RAG clients"
+      },
+      {
+        "subreddit": "MachineLearning",
+        "title": "Claude 3.5 vs GPT-4 for production code generation",
+        "url": "https://reddit.com/r/MachineLearning/comments/zzzzz",
+        "score": 650,
+        "fde_insight": "Model comparison data — inform client model selection decisions"
+      }
+    ],
+    "linkedin": []
+  },
+  "fde_opportunities": [
+    {
+      "type": "project_idea",
+      "title": "RAG Architecture Review",
+      "description": "New research confirms chunking strategy > embedding model. Clients with RAG systems likely suboptimal.",
+      "client_type": "Clients with deployed RAG systems",
+      "your_move": "Proactive architecture review — audit chunking configs",
+      "potential_value": "£5K-£10K"
+    },
+    {
+      "type": "optimization",
+      "title": "Vector DB Migration: Pinecone → pgvector",
+      "description": "Reddit report of 70% cost reduction. Multiple clients likely using Pinecone.",
+      "client_type": "Clients with high vector DB costs",
+      "your_move": "Reach out with cost optimization proposal",
+      "potential_value": "£8K-£15K"
+    },
+    {
+      "type": "client_conversation",
+      "title": "Edge Deployment: vinext + Cloudflare",
+      "description": "New tool enables Next.js on Cloudflare Workers. Relevant for Vercel-heavy clients.",
+      "client_type": "Clients with Vercel/Next.js frontend",
+      "your_move": "Demo edge deployment optimization opportunity",
+      "potential_value": "£3K-£8K"
+    },
+    {
+      "type": "positioning",
+      "title": "Agent Debugging Specialization",
+      "description": "Anthropic paper on agent failures signals growing need. Few FDEs have this expertise.",
+      "client_type": "Clients building multi-agent systems",
+      "your_move": "Position as agent debugging specialist in content/outreach",
+      "potential_value": "Differentiation + premium rates"
+    }
+  ],
+  "deep_dive": {
+    "topic": "Understanding nullclaw: Minimal AI Infrastructure",
+    "summary": "nullclaw is a 678KB Zig-based AI agent infrastructure that boots in under 2ms. It represents a significant shift toward minimal, efficient AI runtimes suitable for edge and resource-constrained deployments. Unlike Python-based solutions that require 400MB+ of RAM, nullclaw's tiny footprint opens new deployment possibilities.",
+    "fde_takeaway": "Monitor for production readiness. If nullclaw matures, it could be a game-changer for edge AI deployments. Early expertise = premium positioning.",
+    "sources": ["https://github.com/nullclaw/nullclaw"]
+  },
+  "metadata": {
+    "sources_checked": ["GitHub Trending", "Hugging Face Papers", "Reddit r/MachineLearning", "API Changelogs"],
+    "fetch_duration_seconds": 12.5,
+    "next_update": "2026-03-01T09:00:00Z"
+  }
+}
