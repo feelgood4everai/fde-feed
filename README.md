@@ -11,11 +11,11 @@
 
 | Metric | Count |
 |--------|-------|
-| 🚨 Urgent Alerts | 0 |
-| 🔥 Hot Projects | 5 |
-| 📚 Research Papers | 3 |
-| 💬 Community Discussions | 3 |
-| 💼 FDE Opportunities | 4 |
+| 🚨 Urgent Alerts | 1 |
+| 🔥 Hot Projects | 10 |
+| 📚 Research Papers | 8 |
+| 💬 Community Discussions | 0 |
+| 💼 FDE Opportunities | 3 |
 
 **Next Update:** March 01, 2026
 
@@ -24,7 +24,9 @@
 ## 🚨 Urgent Alerts
 
 <!-- URGENT -->
-_No urgent alerts at this time._
+| Severity | Alert | Impact | Action |
+|----------|-------|--------|--------|
+| 🟡 MEDIUM | [OpenAI: Introducing the Stateful Runtime...](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock) | New capabilities for client so... | Evaluate for client opportunit... |
 <!-- END_URGENT -->
 
 ---
@@ -35,28 +37,30 @@ _No urgent alerts at this time._
 
 | Project | Stars | Why It Matters | FDE Angle |
 |---------|-------|----------------|-----------|
-| [nullclaw](https://github.com/nullclaw/nullclaw) | ⭐ 3,420 | Minimal AI infrastructure — relevan... | Demo to clients concerned abou... |
-| [vinext](https://github.com/cloudflare/vinext) | ⭐ 2,850 | Deployment optimization — run Next.... | Propose edge deployment optimi... |
-| [polymarket-cli](https://github.com/Polymarket/polymarket-cli) | ⭐ 1,840 | CLI tooling pattern — well-designed... | Reference architecture for cli... |
+| [llmfit](https://github.com/AlexsJones/llmfit) | ⭐ 6,026 | Emerging tool — monitor for client ... | Thought leadership share → gau... |
+| [openfang](https://github.com/RightNow-AI/openfang) | ⭐ 3,241 | AI agent tooling — fastest growing ... | Pilot program for clients expl... |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ⭐ 2,249 | RAG infrastructure — core to enterp... | Pilot program for clients expl... |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill) | ⭐ 1,673 | Emerging tool — monitor for client ... | Thought leadership share → gau... |
+| [picolm](https://github.com/RightNow-AI/picolm) | ⭐ 1,035 | Emerging tool — monitor for client ... | Thought leadership share → gau... |
 
 ---
 
 ## 📚 Research Roundup
 
-### RAG Evaluation at Scale: Production Lessons
-**TL;DR:** Analysis of RAG failure modes in production deployments across 50+ companies
-**FDE Takeaway:** Chunking strategy matters more than embedding model — audit client configs
-**[Read Paper](https://arxiv.org/abs/2402.xxxxx)**
+### Retrieve and Segment: Are a Few Examples Enough to Bridge th
+**TL;DR:** Open-vocabulary segmentation (OVS) extends the zero-shot recognition capabilities of vision-language models (VLMs) to pixel-level prediction, enabling
+**FDE Takeaway:** New evaluation method — improve client success metrics
+**[Read Paper](https://arxiv.org/abs/2602.23339)**
 
-### Efficient LLM Inference on Consumer Hardware
-**TL;DR:** New quantization techniques enable GPT-4-level performance on consumer GPUs
-**FDE Takeaway:** Cost reduction opportunity — propose hardware optimization to GPU-heavy clients
-**[Read Paper](https://arxiv.org/abs/2402.yyyyy)**
+### No One Size Fits All: QueryBandits for Hallucination Mitigat
+**TL;DR:** Advanced reasoning capabilities in Large Language Models (LLMs) have led to more frequent hallucinations; yet most mitigation work focuses on open-sou
+**FDE Takeaway:** Production deployment insights — share with DevOps-minded clients
+**[Read Paper](https://arxiv.org/abs/2602.20332)**
 
-### Agent Systems: Failure Modes and Recovery
-**TL;DR:** Systematic analysis of multi-agent system failures in production
-**FDE Takeaway:** Agent debugging skills increasingly valuable — consider specialization
-**[Read Paper](https://arxiv.org/abs/2402.zzzzz)**
+### What Makes a Good Query? Measuring the Impact of Human-Confu
+**TL;DR:** Large Language Model (LLM) hallucinations are usually treated as defects of the model or its decoding strategy. Drawing on classical linguistics, we a
+**FDE Takeaway:** Technical advance — monitor for production readiness
+**[Read Paper](https://arxiv.org/abs/2602.20300)**
 
 
 ---
@@ -65,12 +69,7 @@ _No urgent alerts at this time._
 
 **What's Breaking on Reddit:**
 
-**[We migrated from Pinecone to pgvector and cut costs by 70%](https://reddit.com/r/MachineLearning/comments/xxxxx)** — Cost optimization pattern — evaluate pgvector for vector-heavy clients
-
-**[Production RAG: 6 months of lessons learned](https://reddit.com/r/MachineLearning/comments/yyyyy)** — Real-world validation of best practices — share insights with RAG clients
-
-**[Claude 3.5 vs GPT-4 for production code generation](https://reddit.com/r/MachineLearning/comments/zzzzz)** — Model comparison data — inform client model selection decisions
-
+_No significant discussions this cycle._
 
 ---
 
@@ -78,20 +77,19 @@ _No urgent alerts at this time._
 
 | Opportunity | Client Type | Your Move | Potential Value |
 |-------------|-------------|-----------|-----------------|
-| RAG Architecture Review | Clients with deployed RAG | Proactive architecture review ... | £5K-£10K |
-| Vector DB Migration: Pinecone → pgv... | Clients with high vector  | Reach out with cost optimizati... | £8K-£15K |
-| Edge Deployment: vinext + Cloudflar... | Clients with Vercel/Next. | Demo edge deployment optimizat... | £3K-£8K |
-| Agent Debugging Specialization | Clients building multi-ag | Position as agent debugging sp... | Differentiation + premium rates |
+| Observability Opportunity: llmfit | Clients with production A | Offer health check → ongoing s... | £3K-£8K initial + £2K/month retainer |
+| Research Spotlight: No One Size Fit... | CTOs and technical decisi | Share on LinkedIn + DM to 3 ta... | Inbound inquiry or advisory call |
+| LangChain Update: langchain-core==1... | Clients using LangChain | Proactive compatibility check ... | £2K-£5K per client |
 
 ---
 
-## 🔬 Deep Dive: Understanding nullclaw: Minimal AI Infrastructure
+## 🔬 Deep Dive: Deep Dive: AlexsJones/llmfit
 
-nullclaw is a 678KB Zig-based AI agent infrastructure that boots in under 2ms. It represents a significant shift toward minimal, efficient AI runtimes suitable for edge and resource-constrained deployments. Unlike Python-based solutions that require 400MB+ of RAM, nullclaw's tiny footprint opens new deployment possibilities.
+AlexsJones/llmfit is gaining traction with 6,026 stars. 497 models. 133 providers. One command to find what runs on your hardware.. This represents a significant trend in Rust tooling for production systems. FDEs should understand whether this is a flash-in-the-pan or a genuine shift in how teams build AI systems.
 
-**FDE Takeaway:** Monitor for production readiness. If nullclaw matures, it could be a game-changer for edge AI deployments. Early expertise = premium positioning.
+**FDE Takeaway:** Evaluate AlexsJones/llmfit for client relevance. If it solves a real problem, early expertise = premium positioning. If not, you save clients from chasing hype.
 
-[Source](https://github.com/nullclaw/nullclaw)
+[Source](https://github.com/AlexsJones/llmfit)
 
 ---
 
@@ -136,4 +134,4 @@ Need help deploying AI systems in production?
 
 *Built by [Anand](https://github.com/feelgood4everai) • Forward Deployed Engineer • 26 years delivering production systems*
 
-*Generated: 2026-02-27T14:30:00*
+*Generated: 2026-02-27T14:39:46*
