@@ -1,12 +1,18 @@
-import gradio as gr
+import streamlit as st
 import requests
 import json
 from datetime import datetime
 
 # Configuration
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/feelgood4everai/fde-feed/main/data/latest.json"
-ARCHIVE_URL_TEMPLATE = "https://raw.githubusercontent.com/feelgood4everai/fde-feed/main/data/archive/{}.json"
 
+st.set_page_config(
+    page_title="FDE-Feed Dashboard",
+    page_icon="🚀",
+    layout="wide",
+)
+
+@st.cache_data(ttl=3600)
 def load_latest_brief():
     """Load latest brief from GitHub."""
     try:
@@ -14,224 +20,121 @@ def load_latest_brief():
         if resp.status_code == 200:
             return resp.json()
     except Exception as e:
-        print(f"Error loading brief: {e}")
+        st.error(f"Error loading brief: {e}")
     return None
 
-def format_summary(brief):
-    """Format summary section."""
+def main():
+    st.title("🚀 FDE-Feed Dashboard")
+    st.markdown("*Curated intelligence for Forward Deployed Engineers*")
+    
+    brief = load_latest_brief()
+    
     if not brief:
-        return "Error loading brief"
+        st.error("Could not load FDE brief. Please try again later.")
+        return
     
     summary = brief.get('summary', {})
     generated = brief.get('generated_at', 'Unknown')[:10]
     next_update = brief.get('metadata', {}).get('next_update', 'Unknown')[:10]
     
-    return f"""
-## 📊 Brief Summary — {generated}
-
-| Metric | Count |
-|--------|-------|
-| 🚨 Urgent Alerts | {summary.get('urgent_alerts', 0)} |
-| 🔥 Hot Projects | {summary.get('hot_projects', 0)} |
-| 📚 Research Papers | {summary.get('research_papers', 0)} |
-| 💬 Community Posts | {summary.get('community_discussions', 0)} |
-| 💼 Opportunities | {summary.get('fde_opportunities', 0)} |
-
-**Next Update:** {next_update}
-"""
-
-def format_urgent_alerts(brief):
-    """Format urgent alerts."""
-    alerts = brief.get('urgent_alerts', [])
-    if not alerts:
-        return "✅ No urgent alerts at this time."
+    # Summary metrics
+    st.header(f"📊 Brief Summary — {generated}")
     
-    lines = []
-    for alert in alerts:
-        severity = alert.get('severity', 'medium').upper()
-        title = alert.get('title', 'Alert')
-        impact = alert.get('impact', 'Review required')
-        action = alert.get('action', 'Check details')
-        url = alert.get('url', '#')
-        
-        lines.append(f"### 🚨 {severity}: {title}")
-        lines.append(f"**Impact:** {impact}")
-        lines.append(f"**Action:** {action}")
-        if url != '#':
-            lines.append(f"**[Details]({url})**")
-        lines.append("")
+    cols = st.columns(5)
+    metrics = [
+        ("🚨 Urgent", summary.get('urgent_alerts', 0)),
+        ("🔥 Projects", summary.get('hot_projects', 0)),
+        ("📚 Papers", summary.get('research_papers', 0)),
+        ("💬 Community", summary.get('community_discussions', 0)),
+        ("💼 Opportunities", summary.get('fde_opportunities', 0)),
+    ]
     
-    return "\n".join(lines)
-
-def format_github_trending(brief):
-    """Format GitHub trending repos."""
-    repos = brief.get('hot_this_week', {}).get('github_trending', [])
-    if not repos:
-        return "No trending repos this cycle."
+    for col, (label, value) in zip(cols, metrics):
+        col.metric(label, value)
     
-    lines = []
-    for repo in repos:
-        name = repo.get('name', 'Unknown')
-        stars = repo.get('stars', 0)
-        desc = repo.get('description', 'No description')
-        url = repo.get('url', '#')
-        relevance = repo.get('fde_relevance', '')
-        use_case = repo.get('fde_use_case', '')
-        
-        lines.append(f"### ⭐ {name} ({stars:,} stars)")
-        lines.append(f"{desc}")
-        lines.append(f"**Why FDEs Care:** {relevance}")
-        lines.append(f"**Use Case:** {use_case}")
-        lines.append(f"**[View on GitHub]({url})**")
-        lines.append("")
+    st.info(f"**Next Update:** {next_update}")
     
-    return "\n".join(lines)
-
-def format_research(brief):
-    """Format research papers."""
-    papers = brief.get('research_roundup', [])
-    if not papers:
-        return "No new papers this cycle."
+    # Tabs
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["🚨 Alerts", "🔥 Hot Projects", "📚 Research", "💼 Opportunities", "🔬 Deep Dive"])
     
-    lines = []
-    for paper in papers:
-        title = paper.get('title', 'Untitled')
-        tldr = paper.get('tldr', 'No summary')
-        takeaway = paper.get('fde_takeaway', 'Review for applicability')
-        url = paper.get('url', '#')
-        
-        lines.append(f"### 📄 {title}")
-        lines.append(f"**TL;DR:** {tldr}")
-        lines.append(f"**FDE Takeaway:** {takeaway}")
-        if url != '#':
-            lines.append(f"**[Read Paper]({url})**")
-        lines.append("")
+    with tab1:
+        st.subheader("Urgent Alerts")
+        alerts = brief.get('urgent_alerts', [])
+        if alerts:
+            for alert in alerts:
+                severity = alert.get('severity', 'medium').upper()
+                color = {'CRITICAL': 'red', 'HIGH': 'orange', 'MEDIUM': 'blue'}.get(severity, 'gray')
+                with st.container():
+                    st.markdown(f"### :{color}[🚨 {severity}: {alert.get('title', 'Alert')}]")
+                    st.write(f"**Impact:** {alert.get('impact', 'N/A')}")
+                    st.write(f"**Action:** {alert.get('action', 'Check details')}")
+                    if alert.get('url'):
+                        st.link_button("View Details", alert['url'])
+        else:
+            st.success("✅ No urgent alerts at this time.")
     
-    return "\n".join(lines)
-
-def format_community(brief):
-    """Format community discussions."""
-    reddit = brief.get('community_pulse', {}).get('reddit', [])
-    if not reddit:
-        return "No significant discussions this cycle."
+    with tab2:
+        st.subheader("GitHub Trending")
+        repos = brief.get('hot_this_week', {}).get('github_trending', [])
+        if repos:
+            for repo in repos:
+                with st.container():
+                    st.markdown(f"### ⭐ {repo.get('name', 'Unknown')} ({repo.get('stars', 0):,} stars)")
+                    st.write(repo.get('description', 'No description'))
+                    st.write(f"**Why FDEs Care:** {repo.get('fde_relevance', '')}")
+                    st.write(f"**Use Case:** {repo.get('fde_use_case', '')}")
+                    st.link_button("View on GitHub", repo.get('url', '#'))
+        else:
+            st.info("No trending repos this cycle.")
     
-    lines = []
-    for post in reddit:
-        title = post.get('title', 'Untitled')
-        insight = post.get('fde_insight', '')
-        url = post.get('url', '#')
-        score = post.get('score', 0)
-        
-        lines.append(f"### 💬 {title}")
-        lines.append(f"**Score:** {score} upvotes")
-        lines.append(f"**FDE Insight:** {insight}")
-        lines.append(f"**[View Discussion]({url})**")
-        lines.append("")
+    with tab3:
+        st.subheader("Research Papers")
+        papers = brief.get('research_roundup', [])
+        if papers:
+            for paper in papers:
+                with st.container():
+                    st.markdown(f"### 📄 {paper.get('title', 'Untitled')}")
+                    st.write(f"**TL;DR:** {paper.get('tldr', 'No summary')}")
+                    st.info(f"**FDE Takeaway:** {paper.get('fde_takeaway', '')}")
+                    if paper.get('url'):
+                        st.link_button("Read Paper", paper['url'])
+        else:
+            st.info("No new papers this cycle.")
     
-    return "\n".join(lines)
-
-def format_opportunities(brief):
-    """Format FDE opportunities."""
-    opportunities = brief.get('fde_opportunities', [])
-    if not opportunities:
-        return "No specific opportunities identified this cycle."
+    with tab4:
+        st.subheader("FDE Opportunities")
+        opportunities = brief.get('fde_opportunities', [])
+        if opportunities:
+            for opp in opportunities:
+                with st.container():
+                    st.markdown(f"### 💼 {opp.get('title', 'Opportunity')}")
+                    st.write(opp.get('description', ''))
+                    st.write(f"**Client Type:** {opp.get('client_type', 'Various')}")
+                    st.write(f"**Your Move:** {opp.get('your_move', 'Evaluate')}")
+                    st.success(f"**Potential Value:** {opp.get('potential_value', 'TBD')}")
+        else:
+            st.info("No specific opportunities identified this cycle.")
     
-    lines = []
-    for opp in opportunities:
-        title = opp.get('title', 'Opportunity')
-        desc = opp.get('description', '')
-        client_type = opp.get('client_type', 'Various')
-        move = opp.get('your_move', 'Evaluate')
-        value = opp.get('potential_value', 'TBD')
-        
-        lines.append(f"### 💼 {title}")
-        lines.append(f"{desc}")
-        lines.append(f"**Client Type:** {client_type}")
-        lines.append(f"**Your Move:** {move}")
-        lines.append(f"**Potential Value:** {value}")
-        lines.append("")
+    with tab5:
+        st.subheader("Deep Dive")
+        deep_dive = brief.get('deep_dive', {})
+        if deep_dive:
+            st.markdown(f"## 🔬 {deep_dive.get('topic', 'Deep Dive')}")
+            st.write(deep_dive.get('summary', 'Summary coming soon...'))
+            st.info(f"**FDE Takeaway:** {deep_dive.get('fde_takeaway', '')}")
+            for source in deep_dive.get('sources', []):
+                st.link_button("Source", source)
+        else:
+            st.info("Deep dive content coming soon.")
     
-    return "\n".join(lines)
-
-def format_deep_dive(brief):
-    """Format deep dive section."""
-    deep_dive = brief.get('deep_dive', {})
-    topic = deep_dive.get('topic', 'Deep Dive')
-    summary = deep_dive.get('summary', 'Summary coming soon...')
-    takeaway = deep_dive.get('fde_takeaway', 'Review for applicability')
-    
-    return f"""## 🔬 {topic}
-
-{summary}
-
-**FDE Takeaway:** {takeaway}"""
-
-def create_dashboard():
-    """Create Gradio dashboard."""
-    
-    # Load data
-    brief = load_latest_brief()
-    
-    if not brief:
-        return gr.Markdown("# Error\n\nCould not load FDE brief. Please try again later.")
-    
-    with gr.Blocks(title="FDE-Feed Dashboard", theme=gr.themes.Soft()) as app:
-        gr.Markdown("# 🚀 FDE-Feed Dashboard")
-        gr.Markdown("*Curated intelligence for Forward Deployed Engineers*")
-        
-        # Summary
-        with gr.Tab("📊 Summary"):
-            gr.Markdown(format_summary(brief))
-            
-            with gr.Row():
-                refresh_btn = gr.Button("🔄 Refresh Data", variant="primary")
-                status_text = gr.Textbox(label="Status", value="Data loaded from GitHub", interactive=False)
-            
-            def refresh():
-                new_brief = load_latest_brief()
-                if new_brief:
-                    return format_summary(new_brief), "Data refreshed successfully"
-                return "Error refreshing data", "Failed to refresh"
-            
-            refresh_btn.click(refresh, outputs=[gr.Markdown(), status_text])
-        
-        # Urgent Alerts
-        with gr.Tab("🚨 Alerts"):
-            gr.Markdown(format_urgent_alerts(brief))
-        
-        # Hot Projects
-        with gr.Tab("🔥 Hot Projects"):
-            gr.Markdown(format_github_trending(brief))
-        
-        # Research
-        with gr.Tab("📚 Research"):
-            gr.Markdown(format_research(brief))
-        
-        # Community
-        with gr.Tab("💬 Community"):
-            gr.Markdown(format_community(brief))
-        
-        # Opportunities
-        with gr.Tab("💼 Opportunities"):
-            gr.Markdown(format_opportunities(brief))
-        
-        # Deep Dive
-        with gr.Tab("🔬 Deep Dive"):
-            gr.Markdown(format_deep_dive(brief))
-        
-        # Footer
-        gr.Markdown("---")
-        gr.Markdown("""
-**Data Sources:** GitHub • Hugging Face • Reddit • API Changelogs  
-**Update Schedule:** Every 2 days at 9am UTC  
-**GitHub:** [feelgood4everai/fde-feed](https://github.com/feelgood4everai/fde-feed)  
-**Built by:** [Anand](https://github.com/feelgood4everai) • Forward Deployed Engineer
-        """)
-    
-    return app
-
-# Create and launch
-app = create_dashboard()
+    # Footer
+    st.markdown("---")
+    st.markdown("""
+    **Data Sources:** GitHub • Hugging Face • Reddit • API Changelogs  
+    **Update Schedule:** Every 2 days at 9am UTC  
+    **GitHub:** [feelgood4everai/fde-feed](https://github.com/feelgood4everai/fde-feed)  
+    **Built by:** [Anand](https://github.com/feelgood4everai) • Forward Deployed Engineer
+    """)
 
 if __name__ == "__main__":
-    app.launch()
+    main()

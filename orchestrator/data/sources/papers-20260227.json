@@ -1,0 +1,42 @@
+[
+  {
+    "title": "General Agent Evaluation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2602.22953",
+    "tldr": "The promise of general-purpose agents - systems that perform tasks in unfamiliar environments without domain-specific engineering - remains largely unrealized. Existing agents are predominantly specia...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-02-26T07:48:02.000Z"
+  },
+  {
+    "title": "Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2602.23339",
+    "tldr": "Open-vocabulary segmentation (OVS) extends the zero-shot recognition capabilities of vision-language models (VLMs) to pixel-level prediction, enabling segmentation of arbitrary categories specified by...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-02-26T13:45:33.000Z"
+  },
+  {
+    "title": "No One Size Fits All: QueryBandits for Hallucination Mitigation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2602.20332",
+    "tldr": "Advanced reasoning capabilities in Large Language Models (LLMs) have led to more frequent hallucinations; yet most mitigation work focuses on open-source models for post-hoc detection and parameter ed...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-02-23T15:28:48.000Z"
+  },
+  {
+    "title": "What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2602.20300",
+    "tldr": "Large Language Model (LLM) hallucinations are usually treated as defects of the model or its decoding strategy. Drawing on classical linguistics, we argue that a query's form can also shape a listener...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-02-23T14:30:08.000Z"
+  },
+  {
+    "title": "MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2602.18253",
+    "tldr": "Data-efficient neural decoding is a central challenge for speech brain-computer interfaces. We present the first demonstration of transfer learning and cross-task decoding for MEG-based speech models ...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-02-20T09:39:50.000Z"
+  }
+]

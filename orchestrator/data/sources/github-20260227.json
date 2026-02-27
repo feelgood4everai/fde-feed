@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AlexsJones/llmfit",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "stars": 6133,
+    "stars_gained": 6133,
+    "description": "497 models. 133 providers. One command to find what runs on your hardware.",
+    "language": "Rust",
+    "created_at": "2026-02-15T16:11:31Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "RightNow-AI/openfang",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "stars": 3414,
+    "stars_gained": 3414,
+    "description": "Open-source Agent Operating System",
+    "language": "Rust",
+    "created_at": "2026-02-24T23:12:38Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "RightNow-AI/picolm",
+    "url": "https://github.com/RightNow-AI/picolm",
+    "stars": 1039,
+    "stars_gained": 1039,
+    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+    "language": "C",
+    "created_at": "2026-02-19T01:07:10Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "mgechev/skills-best-practices",
+    "url": "https://github.com/mgechev/skills-best-practices",
+    "stars": 777,
+    "stars_gained": 777,
+    "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+    "language": null,
+    "created_at": "2026-02-24T19:47:38Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "win4r/memory-lancedb-pro",
+    "url": "https://github.com/win4r/memory-lancedb-pro",
+    "stars": 585,
+    "stars_gained": 585,
+    "description": "Enhanced LanceDB memory plugin for OpenClaw \u2014 Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+    "language": "TypeScript",
+    "created_at": "2026-02-24T08:38:15Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "SixHq/Overture",
+    "url": "https://github.com/SixHq/Overture",
+    "stars": 568,
+    "stars_gained": 568,
+    "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. ",
+    "language": "TypeScript",
+    "created_at": "2026-02-17T01:46:15Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "xyzthiago/claude-flows",
+    "url": "https://github.com/xyzthiago/claude-flows",
+    "stars": 131,
+    "stars_gained": 131,
+    "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+    "language": "Shell",
+    "created_at": "2026-02-17T18:21:33Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "drcrypterdotru/sqlmap-skynet",
+    "url": "https://github.com/drcrypterdotru/sqlmap-skynet",
+    "stars": 71,
+    "stars_gained": 71,
+    "description": "SQLMap with Autonomous AI, phased workflows, RAG memory, and MCP Agent Tools",
+    "language": "Python",
+    "created_at": "2026-02-19T22:21:12Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "Yuliu11/DualStack-Agent",
+    "url": "https://github.com/Yuliu11/DualStack-Agent",
+    "stars": 56,
+    "stars_gained": 56,
+    "description": "Agentic-RAG Framework: A high-performance knowledge retrieval system featuring Hybrid Search (FAISS + BM25), RRF Re-ranking, and MySQL/Redis persistent storage.",
+    "language": "Python",
+    "created_at": "2026-02-23T08:08:43Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "lamhotsiagian/rag-techniques-playbook",
+    "url": "https://github.com/lamhotsiagian/rag-techniques-playbook",
+    "stars": 53,
+    "stars_gained": 53,
+    "description": "A comprehensive catalog of 34 Retrieval-Augmented Generation (RAG) techniques. Features Python pseudocode, pros/cons, and architecture concepts ranging from basic retrieval to advanced agentic RAG, GraphRAG, and self-correcting workflows.",
+    "language": null,
+    "created_at": "2026-02-14T01:37:03Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  }
+]

@@ -1,0 +1,291 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-02-27T16:46:51.522764",
+  "edition": "fde-brief-20260227",
+  "summary": {
+    "urgent_alerts": 1,
+    "hot_projects": 10,
+    "research_papers": 8,
+    "community_discussions": 0,
+    "fde_opportunities": 3,
+    "framework_updates": 1
+  },
+  "urgent_alerts": [
+    {
+      "severity": "medium",
+      "title": "OpenAI: Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "source": "OpenAI Blog",
+      "impact": "New capabilities for client solutions",
+      "action": "Evaluate for client opportunities",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "detected_at": "2026-02-27T16:46:48.595201"
+    }
+  ],
+  "hot_this_week": {
+    "github_trending": [
+      {
+        "name": "AlexsJones/llmfit",
+        "url": "https://github.com/AlexsJones/llmfit",
+        "stars": 6133,
+        "stars_gained": 6133,
+        "description": "497 models. 133 providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "created_at": "2026-02-15T16:11:31Z",
+        "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+        "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+      },
+      {
+        "name": "RightNow-AI/openfang",
+        "url": "https://github.com/RightNow-AI/openfang",
+        "stars": 3414,
+        "stars_gained": 3414,
+        "description": "Open-source Agent Operating System",
+        "language": "Rust",
+        "created_at": "2026-02-24T23:12:38Z",
+        "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+        "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+      },
+      {
+        "name": "RightNow-AI/picolm",
+        "url": "https://github.com/RightNow-AI/picolm",
+        "stars": 1039,
+        "stars_gained": 1039,
+        "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+        "language": "C",
+        "created_at": "2026-02-19T01:07:10Z",
+        "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+        "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+      },
+      {
+        "name": "mgechev/skills-best-practices",
+        "url": "https://github.com/mgechev/skills-best-practices",
+        "stars": 777,
+        "stars_gained": 777,
+        "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+        "language": null,
+        "created_at": "2026-02-24T19:47:38Z",
+        "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+        "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+      },
+      {
+        "name": "win4r/memory-lancedb-pro",
+        "url": "https://github.com/win4r/memory-lancedb-pro",
+        "stars": 585,
+        "stars_gained": 585,
+        "description": "Enhanced LanceDB memory plugin for OpenClaw \u2014 Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+        "language": "TypeScript",
+        "created_at": "2026-02-24T08:38:15Z",
+        "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+        "fde_use_case": "Architecture review for RAG-heavy clients"
+      },
+      {
+        "name": "SixHq/Overture",
+        "url": "https://github.com/SixHq/Overture",
+        "stars": 568,
+        "stars_gained": 568,
+        "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. ",
+        "language": "TypeScript",
+        "created_at": "2026-02-17T01:46:15Z",
+        "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+        "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+      },
+      {
+        "name": "xyzthiago/claude-flows",
+        "url": "https://github.com/xyzthiago/claude-flows",
+        "stars": 131,
+        "stars_gained": 131,
+        "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+        "language": "Shell",
+        "created_at": "2026-02-17T18:21:33Z",
+        "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+        "fde_use_case": "Architecture review for RAG-heavy clients"
+      },
+      {
+        "name": "drcrypterdotru/sqlmap-skynet",
+        "url": "https://github.com/drcrypterdotru/sqlmap-skynet",
+        "stars": 71,
+        "stars_gained": 71,
+        "description": "SQLMap with Autonomous AI, phased workflows, RAG memory, and MCP Agent Tools",
+        "language": "Python",
+        "created_at": "2026-02-19T22:21:12Z",
+        "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+        "fde_use_case": "Architecture review for RAG-heavy clients"
+      },
+      {
+        "name": "Yuliu11/DualStack-Agent",
+        "url": "https://github.com/Yuliu11/DualStack-Agent",
+        "stars": 56,
+        "stars_gained": 56,
+        "description": "Agentic-RAG Framework: A high-performance knowledge retrieval system featuring Hybrid Search (FAISS + BM25), RRF Re-ranking, and MySQL/Redis persistent storage.",
+        "language": "Python",
+        "created_at": "2026-02-23T08:08:43Z",
+        "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+        "fde_use_case": "Architecture review for RAG-heavy clients"
+      },
+      {
+        "name": "lamhotsiagian/rag-techniques-playbook",
+        "url": "https://github.com/lamhotsiagian/rag-techniques-playbook",
+        "stars": 53,
+        "stars_gained": 53,
+        "description": "A comprehensive catalog of 34 Retrieval-Augmented Generation (RAG) techniques. Features Python pseudocode, pros/cons, and architecture concepts ranging from basic retrieval to advanced agentic RAG, GraphRAG, and self-correcting workflows.",
+        "language": null,
+        "created_at": "2026-02-14T01:37:03Z",
+        "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+        "fde_use_case": "Architecture review for RAG-heavy clients"
+      }
+    ],
+    "hf_papers": [
+      {
+        "title": "General Agent Evaluation",
+        "authors": [],
+        "url": "https://arxiv.org/abs/2602.22953",
+        "tldr": "The promise of general-purpose agents - systems that perform tasks in unfamiliar environments without domain-specific engineering - remains largely unrealized. Existing agents are predominantly specia...",
+        "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+        "published_at": "2026-02-26T07:48:02.000Z"
+      },
+      {
+        "title": "Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?",
+        "authors": [],
+        "url": "https://arxiv.org/abs/2602.23339",
+        "tldr": "Open-vocabulary segmentation (OVS) extends the zero-shot recognition capabilities of vision-language models (VLMs) to pixel-level prediction, enabling segmentation of arbitrary categories specified by...",
+        "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+        "published_at": "2026-02-26T13:45:33.000Z"
+      },
+      {
+        "title": "No One Size Fits All: QueryBandits for Hallucination Mitigation",
+        "authors": [],
+        "url": "https://arxiv.org/abs/2602.20332",
+        "tldr": "Advanced reasoning capabilities in Large Language Models (LLMs) have led to more frequent hallucinations; yet most mitigation work focuses on open-source models for post-hoc detection and parameter ed...",
+        "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+        "published_at": "2026-02-23T15:28:48.000Z"
+      },
+      {
+        "title": "What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance",
+        "authors": [],
+        "url": "https://arxiv.org/abs/2602.20300",
+        "tldr": "Large Language Model (LLM) hallucinations are usually treated as defects of the model or its decoding strategy. Drawing on classical linguistics, we argue that a query's form can also shape a listener...",
+        "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+        "published_at": "2026-02-23T14:30:08.000Z"
+      },
+      {
+        "title": "MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data",
+        "authors": [],
+        "url": "https://arxiv.org/abs/2602.18253",
+        "tldr": "Data-efficient neural decoding is a central challenge for speech brain-computer interfaces. We present the first demonstration of transfer learning and cross-task decoding for MEG-based speech models ...",
+        "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+        "published_at": "2026-02-20T09:39:50.000Z"
+      }
+    ],
+    "framework_updates": [
+      {
+        "framework": "LangChain",
+        "version": "langchain-core==1.2.16",
+        "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.16",
+        "published": "2026-02-25",
+        "fde_relevance": "Check for breaking changes affecting client implementations"
+      }
+    ],
+    "microsoft_updates": []
+  },
+  "research_roundup": [
+    {
+      "title": "General Agent Evaluation",
+      "authors": [],
+      "url": "https://arxiv.org/abs/2602.22953",
+      "tldr": "The promise of general-purpose agents - systems that perform tasks in unfamiliar environments without domain-specific engineering - remains largely unrealized. Existing agents are predominantly specia...",
+      "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+      "published_at": "2026-02-26T07:48:02.000Z"
+    },
+    {
+      "title": "Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?",
+      "authors": [],
+      "url": "https://arxiv.org/abs/2602.23339",
+      "tldr": "Open-vocabulary segmentation (OVS) extends the zero-shot recognition capabilities of vision-language models (VLMs) to pixel-level prediction, enabling segmentation of arbitrary categories specified by...",
+      "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+      "published_at": "2026-02-26T13:45:33.000Z"
+    },
+    {
+      "title": "No One Size Fits All: QueryBandits for Hallucination Mitigation",
+      "authors": [],
+      "url": "https://arxiv.org/abs/2602.20332",
+      "tldr": "Advanced reasoning capabilities in Large Language Models (LLMs) have led to more frequent hallucinations; yet most mitigation work focuses on open-source models for post-hoc detection and parameter ed...",
+      "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+      "published_at": "2026-02-23T15:28:48.000Z"
+    },
+    {
+      "title": "What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance",
+      "authors": [],
+      "url": "https://arxiv.org/abs/2602.20300",
+      "tldr": "Large Language Model (LLM) hallucinations are usually treated as defects of the model or its decoding strategy. Drawing on classical linguistics, we argue that a query's form can also shape a listener...",
+      "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+      "published_at": "2026-02-23T14:30:08.000Z"
+    },
+    {
+      "title": "MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data",
+      "authors": [],
+      "url": "https://arxiv.org/abs/2602.18253",
+      "tldr": "Data-efficient neural decoding is a central challenge for speech brain-computer interfaces. We present the first demonstration of transfer learning and cross-task decoding for MEG-based speech models ...",
+      "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+      "published_at": "2026-02-20T09:39:50.000Z"
+    }
+  ],
+  "community_pulse": {
+    "reddit": [],
+    "linkedin_insights": [
+      {
+        "topic": "FDE Hiring Trends",
+        "trend": "142 open discussions about FDE hiring",
+        "fde_relevance": "Market validation for FDE positioning",
+        "source": "GitHub Discussions"
+      }
+    ]
+  },
+  "fde_opportunities": [
+    {
+      "type": "client_conversation",
+      "title": "Observability Opportunity: llmfit",
+      "description": "Trending debugging tool for AI systems. Many clients lack production visibility.",
+      "client_type": "Clients with production AI systems",
+      "your_move": "Offer health check \u2192 ongoing support retainer",
+      "potential_value": "\u00a33K-\u00a38K initial + \u00a32K/month retainer"
+    },
+    {
+      "type": "client_conversation",
+      "title": "Observability Opportunity: picolm",
+      "description": "Trending debugging tool for AI systems. Many clients lack production visibility.",
+      "client_type": "Clients with production AI systems",
+      "your_move": "Offer health check \u2192 ongoing support retainer",
+      "potential_value": "\u00a33K-\u00a38K initial + \u00a32K/month retainer"
+    },
+    {
+      "type": "technical_review",
+      "title": "LangChain Update: langchain-core==1.2.16",
+      "description": "New version may have breaking changes or improvements",
+      "client_type": "Clients using LangChain",
+      "your_move": "Proactive compatibility check \u2192 upgrade assistance",
+      "potential_value": "\u00a32K-\u00a35K per client"
+    }
+  ],
+  "deep_dive": {
+    "topic": "Deep Dive: AlexsJones/llmfit",
+    "summary": "AlexsJones/llmfit is gaining traction with 6,133 stars. 497 models. 133 providers. One command to find what runs on your hardware.. This represents a significant trend in Rust tooling for production systems. FDEs should understand whether this is a flash-in-the-pan or a genuine shift in how teams build AI systems.",
+    "fde_takeaway": "Evaluate AlexsJones/llmfit for client relevance. If it solves a real problem, early expertise = premium positioning. If not, you save clients from chasing hype.",
+    "sources": [
+      "https://github.com/AlexsJones/llmfit"
+    ]
+  },
+  "metadata": {
+    "sources_checked": [
+      "GitHub Trending",
+      "Hugging Face Papers",
+      "arXiv",
+      "Reddit r/MachineLearning",
+      "LangChain/LlamaIndex Releases",
+      "Microsoft Copilot Updates",
+      "LinkedIn Insights (proxy)",
+      "OpenAI/Anthropic Changelogs"
+    ],
+    "fetch_duration_seconds": 7.63,
+    "next_update": "2026-03-01T09:00:51.522813"
+  }
+}

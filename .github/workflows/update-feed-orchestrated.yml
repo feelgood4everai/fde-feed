@@ -1,0 +1,60 @@
+name: FDE-Feed Update with Orchestrator
+
+on:
+  schedule:
+    # Every 2 days at 9:00 AM UTC
+    - cron: '0 9 */2 * *'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh all sources'
+        required: false
+        default: 'false'
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 python-dateutil
+        
+    - name: Initialize orchestrator database
+      run: |
+        cd orchestrator
+        python runner.py init
+        
+    - name: Run FDE-Feed pipeline with orchestrator
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        cd orchestrator
+        python runner.py run full
+        
+    - name: Check job status
+      if: failure()
+      run: |
+        cd orchestrator
+        python runner.py status
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+        git commit -m "Update FDE Brief: $timestamp" || exit 0
+        git push
