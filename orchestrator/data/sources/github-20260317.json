@@ -1,0 +1,112 @@
+[
+  {
+    "name": "karpathy/autoresearch",
+    "url": "https://github.com/karpathy/autoresearch",
+    "stars": 40204,
+    "stars_gained": 40204,
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "language": "Python",
+    "created_at": "2026-03-06T22:00:43Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "tanweai/pua",
+    "url": "https://github.com/tanweai/pua",
+    "stars": 8279,
+    "stars_gained": 8279,
+    "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
+    "language": "HTML",
+    "created_at": "2026-03-08T16:55:16Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "stars": 2879,
+    "stars_gained": 2879,
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": null,
+    "created_at": "2026-03-05T20:13:14Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "pasky/chrome-cdp-skill",
+    "url": "https://github.com/pasky/chrome-cdp-skill",
+    "stars": 2041,
+    "stars_gained": 2041,
+    "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
+    "language": "JavaScript",
+    "created_at": "2026-03-13T00:35:39Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "stars": 1961,
+    "stars_gained": 1961,
+    "description": "ARIS \u2694\ufe0f (Auto-Research-In-Sleep) \u2014 Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in \u2014 works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "language": "Python",
+    "created_at": "2026-03-10T07:31:45Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "aiming-lab/MetaClaw",
+    "url": "https://github.com/aiming-lab/MetaClaw",
+    "stars": 1592,
+    "stars_gained": 1592,
+    "description": "\ud83e\udd9e Just talk to your agent \u2014 it learns and EVOLVES \ud83e\uddec.",
+    "language": "Python",
+    "created_at": "2026-03-09T13:47:13Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Narcooo/inkos",
+    "url": "https://github.com/Narcooo/inkos",
+    "stars": 1422,
+    "stars_gained": 1422,
+    "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
+    "language": "TypeScript",
+    "created_at": "2026-03-12T02:12:54Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "RunanywhereAI/RCLI",
+    "url": "https://github.com/RunanywhereAI/RCLI",
+    "stars": 1219,
+    "stars_gained": 1219,
+    "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
+    "language": "C++",
+    "created_at": "2026-03-04T07:41:17Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "jnMetaCode/agency-agents-zh",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 1127,
+    "stars_gained": 1127,
+    "description": "176 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u4eba\u8bbe\uff08\u4e2d\u6587\u7248\uff09\u2014 \u8986\u76d6 17 \u4e2a\u90e8\u95e8\uff0c\u652f\u6301 Claude Code / OpenClaw / Cursor / Trae \u7b49 11 \u79cd\u5de5\u5177 | Chinese AI agent personas for dev tools",
+    "language": "Shell",
+    "created_at": "2026-03-06T11:11:51Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "hyperspaceai/agi",
+    "url": "https://github.com/hyperspaceai/agi",
+    "stars": 974,
+    "stars_gained": 974,
+    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+    "language": null,
+    "created_at": "2026-03-08T23:08:37Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  }
+]

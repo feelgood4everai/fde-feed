@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.15614",
+    "tldr": "Recent video diffusion models have made remarkable strides in visual quality, yet precise, fine-grained control remains a key bottleneck that limits practical customizability for content creation. For...",
+    "fde_takeaway": "RAG advancement \u2014 audit client retrieval strategies",
+    "published_at": "2026-03-16T13:59:05.000Z"
+  },
+  {
+    "title": "The PokeAgent Challenge: Competitive and Long-Context Learning at Scale",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.15563",
+    "tldr": "We present the PokeAgent Challenge, a large-scale benchmark for decision-making research built on Pokemon's multi-agent battle system and expansive role-playing game (RPG) environment. Partial observa...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-16T13:25:42.000Z"
+  },
+  {
+    "title": "Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.14645",
+    "tldr": "In this paper, we study the diffusability (learnability) of variational autoencoders (VAE) in latent diffusion. First, we show that pixel-space diffusion trained with an MSE objective is inherently bi...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-03-15T18:47:43.000Z"
+  },
+  {
+    "title": "VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.14659",
+    "tldr": "Video reasoning requires models to locate and track question-relevant evidence across frames. While reinforcement learning (RL) with verifiable rewards improves accuracy, it still struggles to achieve...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-15T19:32:02.000Z"
+  },
+  {
+    "title": "VoXtream2: Full-stream TTS with dynamic speaking rate control",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.13518",
+    "tldr": "Full-stream text-to-speech (TTS) for interactive systems must start speaking with minimal delay while remaining controllable as text arrives incrementally. We present VoXtream2, a zero-shot full-strea...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-13T14:49:25.000Z"
+  }
+]

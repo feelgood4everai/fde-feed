@@ -34,3 +34,32 @@ LINKEDIN_POST.txt
 # Logs
 *.log
 logs/
+
+# ── GSD baseline (auto-generated) ──
+.gsd/activity/
+.gsd/forensics/
+.gsd/runtime/
+.gsd/worktrees/
+.gsd/parallel/
+.gsd/auto.lock
+.gsd/metrics.json
+.gsd/completed-units.json
+.gsd/STATE.md
+.gsd/gsd.db
+.gsd/DISCUSSION-MANIFEST.json
+.gsd/milestones/**/*-CONTINUE.md
+.gsd/milestones/**/continue.md
+*.code-workspace
+.env.*
+!.env.example
+node_modules/
+.next/
+dist/
+build/
+*.pyc
+.venv/
+target/
+vendor/
+coverage/
+.cache/
+tmp/
