@@ -1,0 +1,42 @@
+[
+  {
+    "title": "DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19216",
+    "tldr": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-19T13:58:11.000Z"
+  },
+  {
+    "title": "What Really Controls Temporal Reasoning in Large Language Models: Tokenisation or Representation of Time?",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19017",
+    "tldr": "We present MultiTempBench, a multilingual temporal reasoning benchmark spanning three tasks, date arithmetic, time zone conversion, and temporal relation extraction across five languages (English, Ger...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-19T11:22:03.000Z"
+  },
+  {
+    "title": "VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.13964",
+    "tldr": "Logical anomaly detection in industrial inspection remains challenging due to variations in visual appearance (e.g., background clutter, illumination shift, and blur), which often distract vision-cent...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-14T10:21:37.000Z"
+  },
+  {
+    "title": "Tinted Frames: Question Framing Blinds Vision-Language Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19203",
+    "tldr": "Vision-Language Models (VLMs) have been shown to be blind, often underutilizing their visual inputs even on tasks that require visual reasoning. In this work, we demonstrate that VLMs are selectively ...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-03-19T13:53:09.000Z"
+  },
+  {
+    "title": "PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.14456",
+    "tldr": "Persian poses unique audio understanding challenges through its classical poetry, traditional music, and pervasive code-switching - none captured by existing benchmarks. We introduce PARSA-Bench (Pers...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-15T12:06:24.000Z"
+  }
+]
