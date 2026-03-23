@@ -1,0 +1,112 @@
+[
+  {
+    "name": "calesthio/Crucix",
+    "url": "https://github.com/calesthio/Crucix",
+    "stars": 6286,
+    "stars_gained": 6286,
+    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+    "language": "JavaScript",
+    "created_at": "2026-03-14T07:33:06Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 4880,
+    "stars_gained": 4880,
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "language": "TypeScript",
+    "created_at": "2026-03-14T22:10:23Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "stars": 3295,
+    "stars_gained": 3295,
+    "description": "ARIS \u2694\ufe0f (Auto-Research-In-Sleep) \u2014 Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in \u2014 works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "language": "Python",
+    "created_at": "2026-03-10T07:31:45Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "pasky/chrome-cdp-skill",
+    "url": "https://github.com/pasky/chrome-cdp-skill",
+    "stars": 2576,
+    "stars_gained": 2576,
+    "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
+    "language": "JavaScript",
+    "created_at": "2026-03-13T00:35:39Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Narcooo/inkos",
+    "url": "https://github.com/Narcooo/inkos",
+    "stars": 2154,
+    "stars_gained": 2154,
+    "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
+    "language": "TypeScript",
+    "created_at": "2026-03-12T02:12:54Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "nidhinjs/prompt-master",
+    "url": "https://github.com/nidhinjs/prompt-master",
+    "stars": 2094,
+    "stars_gained": 2094,
+    "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+    "language": null,
+    "created_at": "2026-03-11T16:25:43Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "zerobootdev/zeroboot",
+    "url": "https://github.com/zerobootdev/zeroboot",
+    "stars": 1780,
+    "stars_gained": 1780,
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "language": "Rust",
+    "created_at": "2026-03-15T21:49:32Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "CopilotKit/OpenGenerativeUI",
+    "url": "https://github.com/CopilotKit/OpenGenerativeUI",
+    "stars": 940,
+    "stars_gained": 940,
+    "description": "Open-Source Generative UI Framework",
+    "language": "TypeScript",
+    "created_at": "2026-03-12T20:40:06Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "rasbt/llm-architecture-gallery",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stars": 857,
+    "stars_gained": 857,
+    "description": "LLM Architecture Gallery source data",
+    "language": null,
+    "created_at": "2026-03-15T22:50:46Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "moltlaunch/cashclaw",
+    "url": "https://github.com/moltlaunch/cashclaw",
+    "stars": 753,
+    "stars_gained": 753,
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it.",
+    "language": "TypeScript",
+    "created_at": "2026-03-10T03:25:46Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  }
+]

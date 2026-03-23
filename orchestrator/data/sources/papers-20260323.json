@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Y-Combinator for LLMs: Solving Long-Context Rot with \u03bb-Calculus",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.20105",
+    "tldr": "LLMs are increasingly used as general-purpose reasoners, but long inputs remain bottlenecked by a fixed context window. Recursive Language Models (RLMs) address this by externalising the prompt and re...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-20T12:29:51.000Z"
+  },
+  {
+    "title": "ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19466",
+    "tldr": "Effective collaboration begins with knowing when to ask for help. For example, when trying to identify an occluded object, a human would ask someone to remove the obstruction. Can MLLMs exhibit a simi...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-19T16:58:03.000Z"
+  },
+  {
+    "title": "LoopRPT: Reinforcement Pre-Training for Looped Language Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19714",
+    "tldr": "Looped language models (LoopLMs) perform iterative latent computation to refine internal representations, offering a promising alternative to explicit chain-of-thought (CoT) reasoning. However, existi...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-20T03:35:38.000Z"
+  },
+  {
+    "title": "Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19453",
+    "tldr": "We study LLM policy synthesis: using a large language model to iteratively generate programmatic agent policies for multi-agent environments. Rather than training neural policies via reinforcement lea...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-03-19T16:27:48.000Z"
+  },
+  {
+    "title": "TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.19039",
+    "tldr": "Vision-language models (VLMs) have shown promise in earth observation (EO), yet they struggle with tasks that require grounding complex spatial reasoning in precise pixel-level visual representations....",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-19T11:38:02.000Z"
+  }
+]
