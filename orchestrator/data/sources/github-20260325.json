@@ -1,0 +1,112 @@
+[
+  {
+    "name": "calesthio/Crucix",
+    "url": "https://github.com/calesthio/Crucix",
+    "stars": 6743,
+    "stars_gained": 6743,
+    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+    "language": "JavaScript",
+    "created_at": "2026-03-14T07:33:06Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 6449,
+    "stars_gained": 6449,
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "language": "TypeScript",
+    "created_at": "2026-03-14T22:10:23Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "pasky/chrome-cdp-skill",
+    "url": "https://github.com/pasky/chrome-cdp-skill",
+    "stars": 2646,
+    "stars_gained": 2646,
+    "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
+    "language": "JavaScript",
+    "created_at": "2026-03-13T00:35:39Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Narcooo/inkos",
+    "url": "https://github.com/Narcooo/inkos",
+    "stars": 2363,
+    "stars_gained": 2363,
+    "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
+    "language": "TypeScript",
+    "created_at": "2026-03-12T02:12:54Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "zerobootdev/zeroboot",
+    "url": "https://github.com/zerobootdev/zeroboot",
+    "stars": 1893,
+    "stars_gained": 1893,
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "language": "Rust",
+    "created_at": "2026-03-15T21:49:32Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "CopilotKit/OpenGenerativeUI",
+    "url": "https://github.com/CopilotKit/OpenGenerativeUI",
+    "stars": 996,
+    "stars_gained": 996,
+    "description": "Open-Source Generative UI Framework",
+    "language": "TypeScript",
+    "created_at": "2026-03-12T20:40:06Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "rasbt/llm-architecture-gallery",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stars": 917,
+    "stars_gained": 917,
+    "description": "LLM Architecture Gallery source data",
+    "language": null,
+    "created_at": "2026-03-15T22:50:46Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 497,
+    "stars_gained": 497,
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "created_at": "2026-03-18T18:38:02Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "mnfst/awesome-free-llm-apis",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 484,
+    "stars_gained": 484,
+    "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
+    "language": null,
+    "created_at": "2026-03-21T18:14:07Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "minsight-ai-info/AI-Search-Hub",
+    "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
+    "stars": 436,
+    "stars_gained": 436,
+    "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
+    "language": "Python",
+    "created_at": "2026-03-12T12:36:02Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  }
+]

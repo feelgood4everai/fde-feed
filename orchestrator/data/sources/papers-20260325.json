@@ -1,0 +1,42 @@
+[
+  {
+    "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.23495",
+    "tldr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-24T13:58:17.000Z"
+  },
+  {
+    "title": "Regulating AI Agents",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.23471",
+    "tldr": "AI agents -- systems that can independently take actions to pursue complex goals with only limited human oversight -- have entered the mainstream. These systems are now being widely used to produce so...",
+    "fde_takeaway": "Agent system insight \u2014 position as agent specialist",
+    "published_at": "2026-03-24T13:38:27.000Z"
+  },
+  {
+    "title": "VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.22003",
+    "tldr": "Vision-Language-Action (VLA) models typically map visual observations and linguistic instructions directly to robotic control signals. This \"black-box\" mapping forces a single forward pass to simultan...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-23T10:08:58.000Z"
+  },
+  {
+    "title": "DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.23499",
+    "tldr": "Optical flow models trained on high-quality data often degrade severely when confronted with real-world corruptions such as blur, noise, and compression artifacts. To overcome this limitation, we form...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-24T13:59:13.000Z"
+  },
+  {
+    "title": "2Xplat: Two Experts Are Better Than One Generalist",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.21064",
+    "tldr": "Pose-free feed-forward 3D Gaussian Splatting (3DGS) has opened a new frontier for rapid 3D modeling, enabling high-quality Gaussian representations to be generated from uncalibrated multi-view images ...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-22T01:14:38.000Z"
+  }
+]
