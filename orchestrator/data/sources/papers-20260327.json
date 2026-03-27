@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.25718",
+    "tldr": "We demonstrate an all solid state semiconductor device, based on epitaxial single crystalline metal halide perovskites, enabling reversible control of a perovskite photoluminescence with a gate voltag...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-26T13:57:34.000Z"
+  },
+  {
+    "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.25702",
+    "tldr": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-26T13:48:50.000Z"
+  },
+  {
+    "title": "Representation Alignment for Just Image Transformers is not Easier than You Think",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.14366",
+    "tldr": "Representation Alignment (REPA) has emerged as a simple way to accelerate Diffusion Transformers training in latent space. At the same time, pixel-space diffusion transformers such as Just image Trans...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-03-15T09:08:31.000Z"
+  },
+  {
+    "title": "PixelSmile: Toward Fine-Grained Facial Expression Editing",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.25728",
+    "tldr": "Fine-grained facial expression editing has long been limited by intrinsic semantic overlap. To address this, we construct the Flex Facial Expression (FFE) dataset with continuous affective annotations...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-26T13:59:04.000Z"
+  },
+  {
+    "title": "RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.25502",
+    "tldr": "Image restoration under real-world degradations is critical for downstream tasks such as autonomous driving and object detection. However, existing restoration models are often limited by the scale an...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-03-26T10:39:39.000Z"
+  }
+]

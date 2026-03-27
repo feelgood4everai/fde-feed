@@ -1,0 +1,112 @@
+[
+  {
+    "name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "stars": 7887,
+    "stars_gained": 7887,
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "language": "TypeScript",
+    "created_at": "2026-03-14T22:10:23Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "calesthio/Crucix",
+    "url": "https://github.com/calesthio/Crucix",
+    "stars": 7075,
+    "stars_gained": 7075,
+    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+    "language": "JavaScript",
+    "created_at": "2026-03-14T07:33:06Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "zerobootdev/zeroboot",
+    "url": "https://github.com/zerobootdev/zeroboot",
+    "stars": 1949,
+    "stars_gained": 1949,
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+    "language": "Rust",
+    "created_at": "2026-03-15T21:49:32Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "nikmcfly/MiroFish-Offline",
+    "url": "https://github.com/nikmcfly/MiroFish-Offline",
+    "stars": 1442,
+    "stars_gained": 1442,
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
+    "language": "Python",
+    "created_at": "2026-03-14T22:54:19Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "alvinunreal/awesome-opensource-ai",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "stars": 1190,
+    "stars_gained": 1190,
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "language": null,
+    "created_at": "2026-03-24T15:58:22Z",
+    "fde_relevance": "Deployment tooling \u2014 bridge dev-to-prod gap for clients",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "truongduy2611/app-store-preflight-skills",
+    "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "stars": 958,
+    "stars_gained": 958,
+    "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+    "language": null,
+    "created_at": "2026-03-19T05:39:43Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "rasbt/llm-architecture-gallery",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "stars": 936,
+    "stars_gained": 936,
+    "description": "LLM Architecture Gallery source data",
+    "language": null,
+    "created_at": "2026-03-15T22:50:46Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "mnfst/awesome-free-llm-apis",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 869,
+    "stars_gained": 869,
+    "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
+    "language": null,
+    "created_at": "2026-03-21T18:14:07Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 611,
+    "stars_gained": 611,
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "created_at": "2026-03-18T18:38:02Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 519,
+    "stars_gained": 519,
+    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+    "language": "Markdown",
+    "created_at": "2026-03-21T07:28:38Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  }
+]
