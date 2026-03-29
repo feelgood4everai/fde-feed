@@ -1,0 +1,112 @@
+[
+  {
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "stars": 2355,
+    "stars_gained": 2355,
+    "description": "A command-line tool for Lark/Feishu Open Platform \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+    "language": "Go",
+    "created_at": "2026-03-25T07:13:30Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "alvinunreal/awesome-opensource-ai",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "stars": 1812,
+    "stars_gained": 1812,
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "language": null,
+    "created_at": "2026-03-24T15:58:22Z",
+    "fde_relevance": "Deployment tooling \u2014 bridge dev-to-prod gap for clients",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "mnfst/awesome-free-llm-apis",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 1222,
+    "stars_gained": 1222,
+    "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
+    "language": null,
+    "created_at": "2026-03-21T18:14:07Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "wangziqi06/724-office",
+    "url": "https://github.com/wangziqi06/724-office",
+    "stars": 1056,
+    "stars_gained": 1056,
+    "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+    "language": "Python",
+    "created_at": "2026-03-17T05:56:13Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Shpigford/chops",
+    "url": "https://github.com/Shpigford/chops",
+    "stars": 980,
+    "stars_gained": 980,
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+    "language": "Swift",
+    "created_at": "2026-03-18T17:17:12Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "truongduy2611/app-store-preflight-skills",
+    "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "stars": 972,
+    "stars_gained": 972,
+    "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+    "language": null,
+    "created_at": "2026-03-19T05:39:43Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "DingTalk-Real-AI/dingtalk-workspace-cli",
+    "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+    "stars": 935,
+    "stars_gained": 935,
+    "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+    "language": "Go",
+    "created_at": "2026-03-21T03:51:00Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 892,
+    "stars_gained": 892,
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "created_at": "2026-03-18T18:38:02Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "jxnxts/mcp-brasil",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "stars": 838,
+    "stars_gained": 838,
+    "description": "MCP Server para 41 APIs p\u00fablicas brasileiras",
+    "language": "Python",
+    "created_at": "2026-03-26T00:38:54Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 635,
+    "stars_gained": 635,
+    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+    "language": "Markdown",
+    "created_at": "2026-03-21T07:28:38Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  }
+]
