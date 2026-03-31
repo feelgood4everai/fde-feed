@@ -1,0 +1,42 @@
+[
+  {
+    "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.28762",
+    "tldr": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-30T13:59:13.000Z"
+  },
+  {
+    "title": "EpochX: Building the Infrastructure for an Emergent Agent Civilization",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.27304",
+    "tldr": "General-purpose technologies reshape economies less by improving individual tools than by enabling new ways to organize production and coordination. We believe AI agents are approaching a similar infl...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-03-28T11:20:48.000Z"
+  },
+  {
+    "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.27065",
+    "tldr": "Generating scientific manuscripts requires maintaining alignment between narrative reasoning, experimental evidence, and visual artifacts across the document lifecycle. Existing language-model generat...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-27T20:46:14.000Z"
+  },
+  {
+    "title": "Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.25926",
+    "tldr": "Soft context compression reduces the computational workload of processing long contexts in LLMs by encoding long context into a smaller number of latent tokens. However, existing frameworks apply unif...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-26T17:36:55.000Z"
+  },
+  {
+    "title": "Make Geometry Matter for Spatial Reasoning",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.26639",
+    "tldr": "Empowered by large-scale training, vision-language models (VLMs) achieve strong image and video understanding, yet their ability to perform spatial reasoning in both static scenes and dynamic videos r...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-27T13:45:12.000Z"
+  }
+]
