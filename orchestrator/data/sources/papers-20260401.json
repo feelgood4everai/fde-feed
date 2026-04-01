@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.28224",
+    "tldr": "LiDAR has become an essential sensing modality in autonomous driving, robotics, and smart-city applications. However, ghost points (or ghosts), which are false reflections caused by multi-path laser r...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-03-30T05:46:55.000Z"
+  },
+  {
+    "title": "ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.25791",
+    "tldr": "Existing hand-object interactions (HOI) methods are largely limited to rigid objects, while 4D reconstruction methods of articulated objects generally require pre-scanning the object or even multi-vie...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-26T14:00:17.000Z"
+  },
+  {
+    "title": "daVinci-LLM:Towards the Science of Pretraining",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.27164",
+    "tldr": "The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability foundations established during pretraining, yet it remains critically unde...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-28T03:00:49.000Z"
+  },
+  {
+    "title": "MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.28590",
+    "tldr": "Large language models (LLMs) can generate chains of thought (CoTs) that are not always causally responsible for their final outputs. When such a mismatch occurs, the CoT no longer faithfully reflects ...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-03-30T11:37:42.000Z"
+  },
+  {
+    "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.28763",
+    "tldr": "Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are eithe...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-03-30T13:59:18.000Z"
+  }
+]
