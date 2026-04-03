@@ -1,0 +1,112 @@
+[
+  {
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "stars": 6416,
+    "stars_gained": 6416,
+    "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+    "language": "Go",
+    "created_at": "2026-03-25T07:13:30Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "tvytlx/ai-agent-deep-dive",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "stars": 4842,
+    "stars_gained": 4842,
+    "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
+    "language": "Python",
+    "created_at": "2026-03-31T11:27:01Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "JackChen-me/open-multi-agent",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 2836,
+    "stars_gained": 2836,
+    "description": "Lightweight multi-agent framework \u2014 describe a goal, the framework auto-decomposes it into tasks and runs them in parallel. Works with Claude, GPT, and local models.",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:34Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "alvinreal/awesome-opensource-ai",
+    "url": "https://github.com/alvinreal/awesome-opensource-ai",
+    "stars": 2275,
+    "stars_gained": 2275,
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "language": null,
+    "created_at": "2026-03-24T15:58:22Z",
+    "fde_relevance": "Deployment tooling \u2014 bridge dev-to-prod gap for clients",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "stars": 1926,
+    "stars_gained": 1926,
+    "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
+    "language": null,
+    "created_at": "2026-03-31T11:47:04Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "DingTalk-Real-AI/dingtalk-workspace-cli",
+    "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+    "stars": 1592,
+    "stars_gained": 1592,
+    "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+    "language": "Go",
+    "created_at": "2026-03-21T03:51:00Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "stars": 1587,
+    "stars_gained": 1587,
+    "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
+    "language": null,
+    "created_at": "2026-03-31T18:00:16Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "mnfst/awesome-free-llm-apis",
+    "url": "https://github.com/mnfst/awesome-free-llm-apis",
+    "stars": 1428,
+    "stars_gained": 1428,
+    "description": "Permanent Free LLM API List (API Keys) \ud83d\ude0e\ud83d\udd11",
+    "language": null,
+    "created_at": "2026-03-21T18:14:07Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "Windy3f3f3f3f/how-claude-code-works",
+    "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "stars": 1300,
+    "stars_gained": 1300,
+    "description": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
+    "language": null,
+    "created_at": "2026-03-31T12:25:40Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+    "stars": 921,
+    "stars_gained": 921,
+    "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+    "language": "Markdown",
+    "created_at": "2026-03-21T07:28:38Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.02289",
+    "tldr": "Recent multimodal large language models have achieved strong performance in unified text and image understanding and generation, yet extending such native capability to 3D remains challenging due to l...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  },
+  {
+    "title": "Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.00917",
+    "tldr": "The rise of large language models for code has reshaped software development. Autonomous coding agents, able to create branches, open pull requests, and perform code reviews, now actively contribute t...",
+    "fde_takeaway": "Agent system insight \u2014 position as agent specialist",
+    "published_at": "2026-03-31T20:00:00.000Z"
+  },
+  {
+    "title": "VOID: Video Object and Interaction Deletion",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.02296",
+    "tldr": "Existing video object removal methods excel at inpainting content \"behind\" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has mo...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  },
+  {
+    "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.01666",
+    "tldr": "Despite recent progress, video diffusion models still struggle to synthesize realistic videos involving highly dynamic motions or requiring fine-grained motion controllability. A central limitation li...",
+    "fde_takeaway": "RAG advancement \u2014 audit client retrieval strategies",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  },
+  {
+    "title": "T5Gemma-TTS Technical Report",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.01760",
+    "tldr": "Autoregressive neural codec language models have shown strong zero-shot voice cloning ability, but decoder-only architectures treat input text as a prefix that competes with the growing audio sequence...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  }
+]

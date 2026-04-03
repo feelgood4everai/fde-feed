@@ -1,0 +1,9 @@
+[
+  {
+    "framework": "LangChain",
+    "version": "langchain-core==1.2.25",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.25",
+    "published": "2026-04-02",
+    "fde_relevance": "Check for breaking changes affecting client implementations"
+  }
+]
