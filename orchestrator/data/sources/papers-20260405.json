@@ -1,0 +1,42 @@
+[
+  {
+    "title": "LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.27449",
+    "tldr": "Learning human-object manipulation presents significant challenges due to its fine-grained and contact-rich nature of the motions involved. Traditional physics-based animation requires extensive model...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-03-27T20:00:00.000Z"
+  },
+  {
+    "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.00356",
+    "tldr": "Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deploye...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-03-31T20:00:00.000Z"
+  },
+  {
+    "title": "An Empirical Recipe for Universal Phone Recognition",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.29042",
+    "tldr": "Phone recognition (PR) is a key enabler of multilingual and low-resource speech processing tasks, yet robust performance remains elusive. Highly performant English-focused models do not generalize acr...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-29T20:00:00.000Z"
+  },
+  {
+    "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.01298",
+    "tldr": "Anticipating supply chain disruptions before they materialize is a core challenge for firms and policymakers alike. A key difficulty is learning to reason reliably about infrequent, high-impact events...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-31T20:00:00.000Z"
+  },
+  {
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.01658",
+    "tldr": "Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  }
+]
