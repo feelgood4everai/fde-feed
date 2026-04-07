@@ -1,0 +1,42 @@
+[
+  {
+    "title": "SciLT: Long-Tailed Classification in Scientific Image Domains",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.03687",
+    "tldr": "Long-tailed recognition has benefited from foundation models and fine-tuning paradigms, yet existing studies and benchmarks are mainly confined to natural image domains, where pre-training and fine-tu...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-03T20:00:00.000Z"
+  },
+  {
+    "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.02288",
+    "tldr": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coa...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  },
+  {
+    "title": "LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.28301",
+    "tldr": "Vision-Language-Action (VLA) models achieve strong performance in robotic manipulation by leveraging pre-trained vision-language backbones. However, in downstream robotic settings, they are typically ...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-29T20:00:00.000Z"
+  },
+  {
+    "title": "Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.00830",
+    "tldr": "Test-Time Learning (TTL) enables language agents to iteratively refine their performance through repeated interactions with the environment at inference time. At the core of TTL is an adaptation polic...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-01T20:00:00.000Z"
+  },
+  {
+    "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.04759",
+    "tldr": "OpenClaw, the most widely deployed personal AI agent in early 2026, operates with full local system access and integrates with sensitive services such as Gmail, Stripe, and the filesystem. While these...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-05T20:00:00.000Z"
+  }
+]

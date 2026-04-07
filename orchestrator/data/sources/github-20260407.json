@@ -1,0 +1,112 @@
+[
+  {
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "stars": 6904,
+    "stars_gained": 6904,
+    "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+    "language": "Go",
+    "created_at": "2026-03-25T07:13:30Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "JackChen-me/open-multi-agent",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5263,
+    "stars_gained": 5263,
+    "description": "TypeScript multi-agent framework \u2014 one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:34Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "tvytlx/ai-agent-deep-dive",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "stars": 5241,
+    "stars_gained": 5241,
+    "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
+    "language": "Python",
+    "created_at": "2026-03-31T11:27:01Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 4725,
+    "stars_gained": 4725,
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Python",
+    "created_at": "2026-04-04T10:03:00Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "milla-jovovich/mempalace",
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "stars": 3334,
+    "stars_gained": 3334,
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "language": "Python",
+    "created_at": "2026-04-05T01:12:07Z",
+    "fde_relevance": "Evaluation framework \u2014 prove ROI to client stakeholders",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "stars": 2268,
+    "stars_gained": 2268,
+    "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
+    "language": null,
+    "created_at": "2026-03-31T18:00:16Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "stars": 2187,
+    "stars_gained": 2187,
+    "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
+    "language": null,
+    "created_at": "2026-03-31T11:47:04Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "yasasbanukaofficial/claude-code",
+    "url": "https://github.com/yasasbanukaofficial/claude-code",
+    "stars": 1823,
+    "stars_gained": 1823,
+    "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "veyliss/ai-localbase",
+    "url": "https://github.com/veyliss/ai-localbase",
+    "stars": 146,
+    "stars_gained": 146,
+    "description": "\u4e00\u4e2a\u672c\u5730\u4f18\u5148\u7684AI\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff08RAG\uff09\uff0c\u7528\u4e8e\u628a\u672c\u5730\u6587\u6863\u63a5\u5165\u8f85\u5bfc\u641c\u7d22\u4e0e\u5927\u6a21\u578b\u5bf9\u8bdd\u6d41\u7a0b\u3002\u76ee\u524d\u652f\u6301md\u3001txt\u3001pdf\uff08\u6587\u672c\uff09\u7c7b\u578b",
+    "language": "Go",
+    "created_at": "2026-03-25T03:42:43Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "xuanhuaz1022/TraeOfflineRAG",
+    "url": "https://github.com/xuanhuaz1022/TraeOfflineRAG",
+    "stars": 134,
+    "stars_gained": 134,
+    "description": "No description",
+    "language": "Python",
+    "created_at": "2026-03-31T11:41:22Z",
+    "fde_relevance": "General AI tooling",
+    "fde_use_case": "Evaluate for client projects"
+  }
+]
