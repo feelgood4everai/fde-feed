@@ -1,0 +1,112 @@
+[
+  {
+    "name": "milla-jovovich/mempalace",
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "stars": 30429,
+    "stars_gained": 30429,
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "language": "Python",
+    "created_at": "2026-04-05T01:12:07Z",
+    "fde_relevance": "Evaluation framework \u2014 prove ROI to client stakeholders",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 7975,
+    "stars_gained": 7975,
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Python",
+    "created_at": "2026-04-04T10:03:00Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "JackChen-me/open-multi-agent",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5482,
+    "stars_gained": 5482,
+    "description": "TypeScript multi-agent framework \u2014 one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:34Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "tvytlx/ai-agent-deep-dive",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "stars": 5345,
+    "stars_gained": 5345,
+    "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
+    "language": "Python",
+    "created_at": "2026-03-31T11:27:01Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "stars": 2462,
+    "stars_gained": 2462,
+    "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
+    "language": null,
+    "created_at": "2026-03-31T18:00:16Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "stars": 2250,
+    "stars_gained": 2250,
+    "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
+    "language": null,
+    "created_at": "2026-03-31T11:47:04Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "arman-bd/guppylm",
+    "url": "https://github.com/arman-bd/guppylm",
+    "stars": 2091,
+    "stars_gained": 2091,
+    "description": "A ~9M parameter LLM that talks like a small fish.",
+    "language": "Python",
+    "created_at": "2026-03-29T14:32:37Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "yasasbanukaofficial/claude-code",
+    "url": "https://github.com/yasasbanukaofficial/claude-code",
+    "stars": 2069,
+    "stars_gained": 2069,
+    "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Windy3f3f3f3f/how-claude-code-works",
+    "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "stars": 1658,
+    "stars_gained": 1658,
+    "description": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
+    "language": null,
+    "created_at": "2026-03-31T12:25:40Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "xr843/Master-skill",
+    "url": "https://github.com/xr843/Master-skill",
+    "stars": 147,
+    "stars_gained": 147,
+    "description": "Chinese Buddhist Master-skill powered by FoJin \u2014 \u57fa\u4e8e\u4f5b\u6559\u7ecf\u5178\u6587\u732e\u7684\u6c49\u4f20\u7956\u5e08\u5927\u5fb7\u6559\u5b66\u89d2\u8272\u751f\u6210\u5668",
+    "language": "Python",
+    "created_at": "2026-04-04T09:51:06Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  }
+]
