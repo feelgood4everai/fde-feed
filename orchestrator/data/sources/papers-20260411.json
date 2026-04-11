@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.07338",
+    "tldr": "Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-07T20:00:00.000Z"
+  },
+  {
+    "title": "QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2602.06057",
+    "tldr": "Deploying large language models (LLMs) on heterogeneous edge devices demands frameworks that jointly optimize energy efficiency, inference quality, and reliability. Our prior QEIL v1 (Kumar & Jha, 202...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-04T20:00:00.000Z"
+  },
+  {
+    "title": "The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.06377",
+    "tldr": "We investigate whether post-trained capabilities can be transferred across models without retraining, with a focus on transfer across different model scales. We propose the Master Key Hypothesis, whic...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-07T15:02:10.000Z"
+  },
+  {
+    "title": "Training a Student Expert via Semi-Supervised Foundation Model Distillation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.03841",
+    "tldr": "Foundation models deliver strong perception but are often too computationally heavy to deploy, and adapting them typically requires costly annotations. We introduce a semi-supervised knowledge distill...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-03T20:00:00.000Z"
+  },
+  {
+    "title": "CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2511.16428",
+    "tldr": "Self-supervised surround-view depth estimation enables dense, low-cost 3D perception with a 360\u00b0 field of view from multiple minimally overlapping images. Yet, most existing methods suffer from depth ...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-04-07T20:00:00.000Z"
+  }
+]
