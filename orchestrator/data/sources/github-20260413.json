@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MemPalace/mempalace",
+    "url": "https://github.com/MemPalace/mempalace",
+    "stars": 44025,
+    "stars_gained": 44025,
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "language": "Python",
+    "created_at": "2026-04-05T01:12:07Z",
+    "fde_relevance": "Evaluation framework \u2014 prove ROI to client stakeholders",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 23132,
+    "stars_gained": 23132,
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Python",
+    "created_at": "2026-04-04T10:03:00Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "JackChen-me/open-multi-agent",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "stars": 5677,
+    "stars_gained": 5677,
+    "description": "TypeScript multi-agent framework \u2014 one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:34Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "tvytlx/ai-agent-deep-dive",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "stars": 5489,
+    "stars_gained": 5489,
+    "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
+    "language": "Python",
+    "created_at": "2026-03-31T11:27:01Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "stars": 2631,
+    "stars_gained": 2631,
+    "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
+    "language": null,
+    "created_at": "2026-03-31T18:00:16Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "yasasbanukaofficial/claude-code",
+    "url": "https://github.com/yasasbanukaofficial/claude-code",
+    "stars": 2402,
+    "stars_gained": 2402,
+    "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
+    "language": "TypeScript",
+    "created_at": "2026-03-31T19:07:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "stars": 2293,
+    "stars_gained": 2293,
+    "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
+    "language": null,
+    "created_at": "2026-03-31T11:47:04Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "alchaincyf/hermes-agent-orange-book",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "stars": 2202,
+    "stars_gained": 2202,
+    "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
+    "language": null,
+    "created_at": "2026-04-08T02:49:02Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "nashsu/llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "stars": 1013,
+    "stars_gained": 1013,
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+    "language": "TypeScript",
+    "created_at": "2026-04-08T11:24:01Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "lucasastorian/llmwiki",
+    "url": "https://github.com/lucasastorian/llmwiki",
+    "stars": 334,
+    "stars_gained": 334,
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+    "language": "TypeScript",
+    "created_at": "2026-04-04T17:10:02Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  }
+]

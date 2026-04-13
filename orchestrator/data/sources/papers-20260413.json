@@ -1,0 +1,42 @@
+[
+  {
+    "title": "AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2603.27490",
+    "tldr": "As large language models (LLMs) evolve into autonomous agents for long-horizon information-seeking, managing finite context capacity has become a critical bottleneck. Existing context management metho...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-03-28T20:00:00.000Z"
+  },
+  {
+    "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.09544",
+    "tldr": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-04-09T20:00:00.000Z"
+  },
+  {
+    "title": "ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.09450",
+    "tldr": "Chest X-ray report generation (CXR-RG) has the potential to substantially alleviate radiologists' workload. However, conventional autoregressive vision--language models (VLMs) suffer from high inferen...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-09T20:00:00.000Z"
+  },
+  {
+    "title": "Structured Causal Video Reasoning via Multi-Objective Alignment",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.04415",
+    "tldr": "Human understanding of video dynamics is typically grounded in a structured mental representation of entities, actions, and temporal relations, rather than relying solely on immediate deductive reason...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-05T20:00:00.000Z"
+  },
+  {
+    "title": "Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.07786",
+    "tldr": "Talking face generation has gained significant attention as a core application of generative models. To enhance the expressiveness and realism of synthesized videos, emotion editing in talking face vi...",
+    "fde_takeaway": "RAG advancement \u2014 audit client retrieval strategies",
+    "published_at": "2026-04-08T20:00:00.000Z"
+  }
+]
