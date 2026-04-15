@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MemPalace/mempalace",
+    "url": "https://github.com/MemPalace/mempalace",
+    "stars": 46192,
+    "stars_gained": 46192,
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "language": "Python",
+    "created_at": "2026-04-05T01:12:07Z",
+    "fde_relevance": "Evaluation framework \u2014 prove ROI to client stakeholders",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 30922,
+    "stars_gained": 30922,
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "language": "Python",
+    "created_at": "2026-04-04T10:03:00Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "stars": 2691,
+    "stars_gained": 2691,
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "language": "Python",
+    "created_at": "2026-04-10T15:07:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "alchaincyf/hermes-agent-orange-book",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "stars": 2514,
+    "stars_gained": 2514,
+    "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
+    "language": null,
+    "created_at": "2026-04-08T02:49:02Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "sooryathejas/METATRON",
+    "url": "https://github.com/sooryathejas/METATRON",
+    "stars": 2312,
+    "stars_gained": 2312,
+    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+    "language": "Python",
+    "created_at": "2026-04-02T06:06:43Z",
+    "fde_relevance": "Evaluation framework \u2014 prove ROI to client stakeholders",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "nashsu/llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "stars": 1346,
+    "stars_gained": 1346,
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+    "language": "TypeScript",
+    "created_at": "2026-04-08T11:24:01Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "AgriciDaniel/claude-obsidian",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "stars": 1241,
+    "stars_gained": 1241,
+    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+    "language": "Shell",
+    "created_at": "2026-04-07T08:59:37Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "joeynyc/hermes-hudui",
+    "url": "https://github.com/joeynyc/hermes-hudui",
+    "stars": 891,
+    "stars_gained": 891,
+    "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
+    "language": "TypeScript",
+    "created_at": "2026-04-09T00:22:33Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Demo to clients with production issues \u2192 support contract"
+  },
+  {
+    "name": "rasbt/mini-coding-agent",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "stars": 639,
+    "stars_gained": 639,
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "language": "Python",
+    "created_at": "2026-04-02T02:35:06Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "kellyvv/PhoneClaw",
+    "url": "https://github.com/kellyvv/PhoneClaw",
+    "stars": 569,
+    "stars_gained": 569,
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
+    "language": "Swift",
+    "created_at": "2026-04-04T18:53:07Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  }
+]
