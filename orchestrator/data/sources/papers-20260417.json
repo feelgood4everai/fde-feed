@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.11707",
+    "tldr": "Accurate future video prediction requires both high visual fidelity and consistent scene semantics, particularly in complex dynamic environments such as autonomous driving. We present Re2Pix, a hierar...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-12T20:00:00.000Z"
+  },
+  {
+    "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14629",
+    "tldr": "Vision-Language Models (VLMs) have shown remarkable capabilities in joint vision-language understanding, but their large scale poses significant challenges for deployment in resource-constrained scena...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-15T20:00:00.000Z"
+  },
+  {
+    "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14531",
+    "tldr": "Every call to an LLM classification endpoint produces a labeled input-output pair already retained in production logs. These pairs constitute a free, growing training set: a lightweight surrogate trai...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-15T20:00:00.000Z"
+  },
+  {
+    "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14062",
+    "tldr": "Human-Object Interaction (HOI) modelling captures how humans act upon and relate to objects, typically expressed as <person, action, object> triplets. Existing approaches split into two disjoint famil...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-04-14T20:00:00.000Z"
+  },
+  {
+    "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.11661",
+    "tldr": "Large language models (LLMs) have recently gained significant attention as a promising approach to accelerate scientific discovery. However, their application in open-ended scientific domains such as ...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-13T20:00:00.000Z"
+  }
+]
