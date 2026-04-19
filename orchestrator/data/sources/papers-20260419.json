@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reinforcement Learning via Value Gradient Flow",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14265",
+    "tldr": "We study behavior-regularized reinforcement learning (RL), where regularization toward a reference distribution (the dataset in offline RL or the base model in LLM RL finetuning) is essential to preve...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-14T20:00:00.000Z"
+  },
+  {
+    "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14914",
+    "tldr": "Text-driven inversion of generative models is a core paradigm for manipulating 2D or 3D content, unlocking numerous applications such as text-based editing, style transfer, or inverse problems. Howeve...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-15T20:00:00.000Z"
+  },
+  {
+    "title": "Three-Phase Transformer",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14430",
+    "tldr": "We present Three-Phase Transformer (3PT), a residual-stream structural prior for decoder-only Transformers on a standard SwiGLU + RMSNorm + RoPE + GQA backbone. The hidden vector is partitioned into N...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-14T20:00:00.000Z"
+  },
+  {
+    "title": "An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2211.16780",
+    "tldr": "In online incremental learning, data continuously arrives with substantial distributional shifts, creating a significant challenge because previous samples have limited replay value when learning a ne...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-15T20:00:00.000Z"
+  },
+  {
+    "title": "Boosting Visual Instruction Tuning with Self-Supervised Guidance",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.12966",
+    "tldr": "Multimodal large language models (MLLMs) perform well on many vision-language tasks but often struggle with vision-centric problems that require fine-grained visual reasoning. Recent evidence suggests...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-13T20:00:00.000Z"
+  }
+]
