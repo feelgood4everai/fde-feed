@@ -1,0 +1,112 @@
+[
+  {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "stars": 3985,
+    "stars_gained": 3985,
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "language": "Python",
+    "created_at": "2026-04-10T15:07:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "stars": 3928,
+    "stars_gained": 3928,
+    "description": "Self-healing browser harness that enables LLMs to complete any task.",
+    "language": "Python",
+    "created_at": "2026-04-17T01:56:15Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "alchaincyf/hermes-agent-orange-book",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "stars": 2801,
+    "stars_gained": 2801,
+    "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
+    "language": null,
+    "created_at": "2026-04-08T02:49:02Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "nashsu/llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "stars": 2199,
+    "stars_gained": 2199,
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+    "language": "TypeScript",
+    "created_at": "2026-04-08T11:24:01Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "Mouseww/anything-analyzer",
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "stars": 1591,
+    "stars_gained": 1591,
+    "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
+    "language": "TypeScript",
+    "created_at": "2026-04-12T09:12:57Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "hexiecs/talk-normal",
+    "url": "https://github.com/hexiecs/talk-normal",
+    "stars": 1367,
+    "stars_gained": 1367,
+    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
+    "language": "Shell",
+    "created_at": "2026-04-08T23:58:35Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "EKKOLearnAI/hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 1331,
+    "stars_gained": 1331,
+    "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+    "language": "TypeScript",
+    "created_at": "2026-04-11T07:38:18Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "joeynyc/hermes-hudui",
+    "url": "https://github.com/joeynyc/hermes-hudui",
+    "stars": 1123,
+    "stars_gained": 1123,
+    "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
+    "language": "Python",
+    "created_at": "2026-04-09T00:22:33Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Demo to clients with production issues \u2192 support contract"
+  },
+  {
+    "name": "AMAP-ML/SkillClaw",
+    "url": "https://github.com/AMAP-ML/SkillClaw",
+    "stars": 832,
+    "stars_gained": 832,
+    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+    "language": "Python",
+    "created_at": "2026-04-10T03:25:47Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "deeplethe/ForgeRAG",
+    "url": "https://github.com/deeplethe/ForgeRAG",
+    "stars": 159,
+    "stars_gained": 159,
+    "description": "Production-Ready RAG with Structure-Aware Reasoning",
+    "language": "Python",
+    "created_at": "2026-04-15T05:41:43Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  }
+]

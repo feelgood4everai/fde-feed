@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.16038",
+    "tldr": "Understanding and anticipating vulnerability-related activity is a major challenge in cyber threat intelligence. This work investigates whether vulnerability sightings, such as proof-of-concept releas...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-16T20:00:00.000Z"
+  },
+  {
+    "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.18168",
+    "tldr": "Few-step generation has been a long-standing goal, with recent one-step generation methods exemplified by MeanFlow achieving remarkable results. Existing research on MeanFlow primarily focuses on clas...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-19T20:00:00.000Z"
+  },
+  {
+    "title": "Latent Preference Modeling for Cross-Session Personalized Tool Calling",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.17886",
+    "tldr": "Users often omit essential details in their requests to LLM-based agents, resulting in under-specified inputs for tool use. This poses a fundamental challenge for tool-augmented agents, as API executi...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-19T20:00:00.000Z"
+  },
+  {
+    "title": "GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.14258",
+    "tldr": "Large language models are typically post-trained using supervised fine-tuning (SFT) and reinforcement learning (RL), yet effectively unifying efficient knowledge injection with robust generalization r...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-14T20:00:00.000Z"
+  },
+  {
+    "title": "Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.16902",
+    "tldr": "Native Omni-modal Large Language Models (OLLMs) have shifted from pipeline architectures to unified representation spaces. However, this native integration gives rise to a critical yet underexplored p...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-17T20:00:00.000Z"
+  }
+]
