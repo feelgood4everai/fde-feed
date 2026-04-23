@@ -1,0 +1,42 @@
+[
+  {
+    "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.19572",
+    "tldr": "As model capabilities advance, research has increasingly shifted toward long-horizon, multi-turn terminal-centric agentic tasks, where raw environment feedback is often preserved in the interaction hi...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-04-20T20:00:00.000Z"
+  },
+  {
+    "title": "Tadabur: A Large-Scale Quran Audio Dataset",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.18932",
+    "tldr": "Despite growing interest in Quranic data research, existing Quran datasets remain limited in both scale and diversity. To address this gap, we present Tadabur, a large-scale Quran audio dataset. Tadab...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-20T20:00:00.000Z"
+  },
+  {
+    "title": "AI scientists produce results without reasoning scientifically",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.18805",
+    "tldr": "Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry ...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-19T20:00:00.000Z"
+  },
+  {
+    "title": "Diverse Dictionary Learning",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.17568",
+    "tldr": "Given only observational data X = g(Z), where both the latent variables Z and the generating process g are unknown, recovering Z is ill-posed without additional assumptions. Existing methods often ass...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-18T20:00:00.000Z"
+  },
+  {
+    "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.18982",
+    "tldr": "Social intelligence, the ability to navigate complex interpersonal interactions, presents a fundamental challenge for language agents. Training such agents via reinforcement learning requires solving ...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-20T20:00:00.000Z"
+  }
+]

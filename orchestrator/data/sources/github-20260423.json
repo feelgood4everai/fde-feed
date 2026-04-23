@@ -1,0 +1,112 @@
+[
+  {
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "stars": 5344,
+    "stars_gained": 5344,
+    "description": "Self-healing browser harness that enables LLMs to complete any task.",
+    "language": "Python",
+    "created_at": "2026-04-17T01:56:15Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "stars": 4221,
+    "stars_gained": 4221,
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "language": "Python",
+    "created_at": "2026-04-10T15:07:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "TencentCloud/CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "stars": 2645,
+    "stars_gained": 2645,
+    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "language": "Rust",
+    "created_at": "2026-04-10T03:00:31Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "EKKOLearnAI/hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 1752,
+    "stars_gained": 1752,
+    "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+    "language": "TypeScript",
+    "created_at": "2026-04-11T07:38:18Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Mouseww/anything-analyzer",
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "stars": 1711,
+    "stars_gained": 1711,
+    "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
+    "language": "TypeScript",
+    "created_at": "2026-04-12T09:12:57Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "h4ckf0r0day/obscura",
+    "url": "https://github.com/h4ckf0r0day/obscura",
+    "stars": 1280,
+    "stars_gained": 1280,
+    "description": "The headless browser for AI agents and web scraping",
+    "language": "Rust",
+    "created_at": "2026-04-13T10:31:41Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "AMAP-ML/SkillClaw",
+    "url": "https://github.com/AMAP-ML/SkillClaw",
+    "stars": 916,
+    "stars_gained": 916,
+    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+    "language": "Python",
+    "created_at": "2026-04-10T03:25:47Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "iamzhihuix/skills-manage",
+    "url": "https://github.com/iamzhihuix/skills-manage",
+    "stars": 631,
+    "stars_gained": 631,
+    "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
+    "language": "TypeScript",
+    "created_at": "2026-04-13T05:03:06Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "amitshekhariitbhu/llm-internals",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "stars": 611,
+    "stars_gained": 611,
+    "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+    "language": null,
+    "created_at": "2026-04-12T06:17:33Z",
+    "fde_relevance": "Cost optimization \u2014 high-value client conversation starter",
+    "fde_use_case": "Propose cost audit \u2192 \u00a35K-\u00a315K optimization project"
+  },
+  {
+    "name": "deeplethe/ForgeRAG",
+    "url": "https://github.com/deeplethe/ForgeRAG",
+    "stars": 215,
+    "stars_gained": 215,
+    "description": "Production-Ready RAG with Structure-Aware Reasoning",
+    "language": "Python",
+    "created_at": "2026-04-15T05:41:43Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  }
+]
