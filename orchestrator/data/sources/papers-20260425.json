@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Temporally Extended Mixture-of-Experts Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.20156",
+    "tldr": "Mixture-of-Experts models, now popular for scaling capacity at fixed inference speed, switch experts at nearly every token. Once a model outgrows available GPU memory, this churn can render optimizati...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-21T20:00:00.000Z"
+  },
+  {
+    "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.08645",
+    "tldr": "Large multimodal models are increasingly used as the reasoning core of embodied agents operating in 3D environments, yet they remain prone to hallucinations that can produce unsafe and ungrounded deci...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-08T20:00:00.000Z"
+  },
+  {
+    "title": "Coevolving Representations in Joint Image-Feature Diffusion",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.17492",
+    "tldr": "Joint image-feature generative modeling has recently emerged as an effective strategy for improving diffusion training by coupling low-level VAE latents with high-level semantic features extracted fro...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-04-18T20:00:00.000Z"
+  },
+  {
+    "title": "Vista4D: Video Reshooting with 4D Point Clouds",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.21915",
+    "tldr": "We present Vista4D, a robust and flexible video reshooting framework that grounds the input video and target cameras in a 4D point cloud. Specifically, given an input video, our method re-synthesizes ...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-04-22T20:00:00.000Z"
+  },
+  {
+    "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.17295",
+    "tldr": "Comprehensive understanding of time series remains a significant challenge for Large Language Models (LLMs). Current research is hindered by fragmented task definitions and benchmarks with inherent am...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-18T20:00:00.000Z"
+  }
+]

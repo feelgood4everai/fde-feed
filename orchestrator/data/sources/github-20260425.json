@@ -1,0 +1,112 @@
+[
+  {
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "stars": 6584,
+    "stars_gained": 6584,
+    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "language": "Python",
+    "created_at": "2026-04-17T01:56:15Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "h4ckf0r0day/obscura",
+    "url": "https://github.com/h4ckf0r0day/obscura",
+    "stars": 3461,
+    "stars_gained": 3461,
+    "description": "The headless browser for AI agents and web scraping",
+    "language": "Rust",
+    "created_at": "2026-04-13T10:31:41Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Mouseww/anything-analyzer",
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "stars": 1863,
+    "stars_gained": 1863,
+    "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
+    "language": "TypeScript",
+    "created_at": "2026-04-12T09:12:57Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "ConardLi/web-design-skill",
+    "url": "https://github.com/ConardLi/web-design-skill",
+    "stars": 1104,
+    "stars_gained": 1104,
+    "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
+    "language": "CSS",
+    "created_at": "2026-04-21T11:56:17Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "iamzhihuix/skills-manage",
+    "url": "https://github.com/iamzhihuix/skills-manage",
+    "stars": 1062,
+    "stars_gained": 1062,
+    "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
+    "language": "TypeScript",
+    "created_at": "2026-04-13T05:03:06Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "cosmicstack-labs/mercury-agent",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "stars": 813,
+    "stars_gained": 813,
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "language": "TypeScript",
+    "created_at": "2026-04-20T12:46:31Z",
+    "fde_relevance": "Cost optimization \u2014 high-value client conversation starter",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "amitshekhariitbhu/llm-internals",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "stars": 621,
+    "stars_gained": 621,
+    "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+    "language": null,
+    "created_at": "2026-04-12T06:17:33Z",
+    "fde_relevance": "Cost optimization \u2014 high-value client conversation starter",
+    "fde_use_case": "Propose cost audit \u2192 \u00a35K-\u00a315K optimization project"
+  },
+  {
+    "name": "techjarves/USB-Uncensored-LLM",
+    "url": "https://github.com/techjarves/USB-Uncensored-LLM",
+    "stars": 571,
+    "stars_gained": 571,
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
+    "language": "Shell",
+    "created_at": "2026-04-14T07:43:10Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "deeplethe/ForgeRAG",
+    "url": "https://github.com/deeplethe/ForgeRAG",
+    "stars": 273,
+    "stars_gained": 273,
+    "description": "Production-Ready RAG with Structure-Aware Reasoning",
+    "language": "Python",
+    "created_at": "2026-04-15T05:41:43Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "guoguo-tju/agent_java_offer",
+    "url": "https://github.com/guoguo-tju/agent_java_offer",
+    "stars": 177,
+    "stars_gained": 177,
+    "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
+    "language": null,
+    "created_at": "2026-04-16T04:44:51Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  }
+]
