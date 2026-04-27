@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.22294",
+    "tldr": "Real-world document question answering is challenging. Analysts must synthesize evidence across multiple documents and different parts of each document. However, any fixed LLM context window can be ex...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-23T20:00:00.000Z"
+  },
+  {
+    "title": "Sessa: Selective State Space Attention",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.18580",
+    "tldr": "Modern sequence modeling is dominated by two families: Transformers, whose self-attention can access arbitrary elements of the visible sequence, and structured state-space models, which propagate info...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-20T20:00:00.000Z"
+  },
+  {
+    "title": "FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.22586",
+    "tldr": "We propose FlowAnchor, a training-free framework for stable and efficient inversion-free, flow-based video editing. Inversion-free editing methods have recently shown impressive efficiency and structu...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-23T20:00:00.000Z"
+  },
+  {
+    "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.21518",
+    "tldr": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-22T20:00:00.000Z"
+  },
+  {
+    "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.16353",
+    "tldr": "This paper introduces AgriIR, a configurable retrieval augmented generation (RAG) framework designed to deliver grounded, domain-specific answers while maintaining flexibility and low computational co...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-03-16T20:00:00.000Z"
+  }
+]

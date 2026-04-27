@@ -1,0 +1,16 @@
+[
+  {
+    "framework": "LangChain",
+    "version": "langchain-core==1.3.2",
+    "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.3.2",
+    "published": "2026-04-24",
+    "fde_relevance": "Check for breaking changes affecting client implementations"
+  },
+  {
+    "framework": "LlamaIndex",
+    "version": "v0.14.21",
+    "url": "https://github.com/run-llama/llama_index/releases/tag/v0.14.21",
+    "published": "2026-04-21",
+    "fde_relevance": "Review for RAG pipeline improvements"
+  }
+]
