@@ -1,0 +1,112 @@
+[
+  {
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "stars": 8104,
+    "stars_gained": 8104,
+    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "language": "Python",
+    "created_at": "2026-04-17T01:56:15Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "stars": 2567,
+    "stars_gained": 2567,
+    "description": "\ud83c\udfa8 Local-first, open-source alternative to Anthropic's Claude Design. \u26a1 19 Skills \u00b7 \u2728 71 brand-grade Design Systems \u00b7 \ud83d\uddbc\ufe0f sandboxed preview \u00b7 \ud83d\udce6 HTML/PDF/PPTX export. \ud83e\udd16 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
+    "language": "TypeScript",
+    "created_at": "2026-04-28T04:25:20Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "ConardLi/garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "stars": 1725,
+    "stars_gained": 1725,
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "language": "JavaScript",
+    "created_at": "2026-04-21T11:56:17Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "cosmicstack-labs/mercury-agent",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "stars": 1705,
+    "stars_gained": 1705,
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "language": "TypeScript",
+    "created_at": "2026-04-20T12:46:31Z",
+    "fde_relevance": "Cost optimization \u2014 high-value client conversation starter",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 860,
+    "stars_gained": 860,
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "language": "Python",
+    "created_at": "2026-04-23T05:42:29Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "stars": 720,
+    "stars_gained": 720,
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+    "language": "Python",
+    "created_at": "2026-04-23T14:11:31Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "espressif/esp-claw",
+    "url": "https://github.com/espressif/esp-claw",
+    "stars": 702,
+    "stars_gained": 702,
+    "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+    "language": "C",
+    "created_at": "2026-04-17T06:40:46Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "ZeroZ-lab/cc-design",
+    "url": "https://github.com/ZeroZ-lab/cc-design",
+    "stars": 645,
+    "stars_gained": 645,
+    "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+    "language": "JavaScript",
+    "created_at": "2026-04-19T01:35:57Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "guoguo-tju/agent_java_offer",
+    "url": "https://github.com/guoguo-tju/agent_java_offer",
+    "stars": 261,
+    "stars_gained": 261,
+    "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
+    "language": null,
+    "created_at": "2026-04-16T04:44:51Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "JuliusBrussee/cavemem",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "stars": 218,
+    "stars_gained": 218,
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "language": "TypeScript",
+    "created_at": "2026-04-18T00:21:39Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  }
+]
