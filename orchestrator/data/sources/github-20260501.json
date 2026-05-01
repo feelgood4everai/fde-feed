@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ConardLi/garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "stars": 1962,
+    "stars_gained": 1962,
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "language": "TypeScript",
+    "created_at": "2026-04-21T11:56:17Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "cosmicstack-labs/mercury-agent",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "stars": 1850,
+    "stars_gained": 1850,
+    "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "language": "TypeScript",
+    "created_at": "2026-04-20T12:46:31Z",
+    "fde_relevance": "Cost optimization \u2014 high-value client conversation starter",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 997,
+    "stars_gained": 997,
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "language": "Python",
+    "created_at": "2026-04-23T05:42:29Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "stars": 779,
+    "stars_gained": 779,
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+    "language": "Python",
+    "created_at": "2026-04-23T14:11:31Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "thClaws/thClaws",
+    "url": "https://github.com/thClaws/thClaws",
+    "stars": 672,
+    "stars_gained": 672,
+    "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+    "language": "Rust",
+    "created_at": "2026-04-20T01:27:39Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "ZeroZ-lab/cc-design",
+    "url": "https://github.com/ZeroZ-lab/cc-design",
+    "stars": 665,
+    "stars_gained": 665,
+    "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+    "language": "JavaScript",
+    "created_at": "2026-04-19T01:35:57Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "chekusu/wanman",
+    "url": "https://github.com/chekusu/wanman",
+    "stars": 472,
+    "stars_gained": 472,
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
+    "language": "TypeScript",
+    "created_at": "2026-04-22T14:17:57Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "YGYOOO/WorldX",
+    "url": "https://github.com/YGYOOO/WorldX",
+    "stars": 460,
+    "stars_gained": 460,
+    "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
+    "language": "TypeScript",
+    "created_at": "2026-04-18T06:24:32Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "JuliusBrussee/cavemem",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "stars": 255,
+    "stars_gained": 255,
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "language": "TypeScript",
+    "created_at": "2026-04-18T00:21:39Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "Beever-AI/beever-atlas",
+    "url": "https://github.com/Beever-AI/beever-atlas",
+    "stars": 206,
+    "stars_gained": 206,
+    "description": "Your First LLM-Wiki Conversation Knowledge Base",
+    "language": "Python",
+    "created_at": "2026-04-21T22:53:05Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  }
+]

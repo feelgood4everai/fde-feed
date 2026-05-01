@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.28139",
+    "tldr": "LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and gra...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-29T20:00:00.000Z"
+  },
+  {
+    "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.27085",
+    "tldr": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offl...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-28T20:00:00.000Z"
+  },
+  {
+    "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.27039",
+    "tldr": "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, ex...",
+    "fde_takeaway": "Cost reduction opportunity \u2014 propose optimization project",
+    "published_at": "2026-04-28T20:00:00.000Z"
+  },
+  {
+    "title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.27505",
+    "tldr": "While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-29T20:00:00.000Z"
+  },
+  {
+    "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.27711",
+    "tldr": "Humanoid control systems have made significant progress in recent years, yet modeling fluent interaction-rich behavior between a robot, its surrounding environment, and task-relevant objects remains a...",
+    "fde_takeaway": "RAG advancement \u2014 audit client retrieval strategies",
+    "published_at": "2026-04-29T20:00:00.000Z"
+  }
+]
