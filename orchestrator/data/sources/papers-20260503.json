@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.24954",
+    "tldr": "We introduce Nemotron 3 Nano Omni, the latest model in the Nemotron multimodal series and the first to natively support audio inputs alongside text, images, and video. Nemotron 3 Nano Omni delivers co...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-26T20:00:00.000Z"
+  },
+  {
+    "title": "Step-level Optimization for Efficient Computer-use Agents",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.27151",
+    "tldr": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-s...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-28T20:00:00.000Z"
+  },
+  {
+    "title": "ViPO: Visual Preference Optimization at Scale",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.24953",
+    "tldr": "While preference optimization is crucial for improving visual generative models, how to effectively scale this paradigm remains largely unexplored. Current open-source preference datasets contain conf...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-28T20:00:00.000Z"
+  },
+  {
+    "title": "Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.24952",
+    "tldr": "Human visual preferences are inherently multi-dimensional, encompassing aesthetics, detail fidelity, and semantic alignment. However, existing datasets provide only single, holistic annotations, resul...",
+    "fde_takeaway": "Technical advance \u2014 monitor for production readiness",
+    "published_at": "2026-04-26T20:00:00.000Z"
+  },
+  {
+    "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.28157",
+    "tldr": "Long-context large language models (LLMs)-for example, Gemini-3.1-Pro and Qwen-3.5-are widely used to empower many real-world applications, such as retrieval-augmented generation, autonomous agents, a...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-04-29T20:00:00.000Z"
+  }
+]
