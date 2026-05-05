@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2604.28075",
+    "tldr": "Recent research has shown that filtering massive English web corpora into high-quality subsets significantly improves training efficiency. However, for high-resource non-English languages like German,...",
+    "fde_takeaway": "Performance optimization angle \u2014 relevant for scaling clients",
+    "published_at": "2026-04-29T20:00:00.000Z"
+  },
+  {
+    "title": "Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2605.00529",
+    "tldr": "Retrieval-augmented generation (RAG) enhances large language models with external knowledge, and tree-based RAG organizes documents into hierarchical indexes to support queries at multiple granulariti...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-30T20:00:00.000Z"
+  },
+  {
+    "title": "Code World Model Preparedness Report",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2605.00932",
+    "tldr": "This report documents the preparedness assessment of Code World Model (CWM), a model for code generation and reasoning about code from Meta. We conducted pre-release testing across domains identified ...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-30T20:00:00.000Z"
+  },
+  {
+    "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2605.02881",
+    "tldr": "Vision-Language-Action (VLA) models aim to provide a single generalist controller for robots, but today's systems fall short on the criteria that matter for real-world deployment. Frontier models are ...",
+    "fde_takeaway": "Production deployment insights \u2014 share with DevOps-minded clients",
+    "published_at": "2026-05-03T20:00:00.000Z"
+  },
+  {
+    "title": "OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models",
+    "authors": [],
+    "url": "https://arxiv.org/abs/2605.00877",
+    "tldr": "The vast and underexplored ocean plays a critical role in regulating global climate and supporting marine biodiversity, yet artificial intelligence has so far delivered limited impact in this domain d...",
+    "fde_takeaway": "New evaluation method \u2014 improve client success metrics",
+    "published_at": "2026-04-24T20:00:00.000Z"
+  }
+]

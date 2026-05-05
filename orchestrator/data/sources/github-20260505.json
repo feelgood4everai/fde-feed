@@ -1,0 +1,112 @@
+[
+  {
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "stars": 1280,
+    "stars_gained": 1280,
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+    "language": "Python",
+    "created_at": "2026-04-23T05:42:29Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "stars": 827,
+    "stars_gained": 827,
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+    "language": "Python",
+    "created_at": "2026-04-23T14:11:31Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "appergb/openless",
+    "url": "https://github.com/appergb/openless",
+    "stars": 799,
+    "stars_gained": 799,
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+    "language": "HTML",
+    "created_at": "2026-04-27T07:25:49Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "alash3al/stash",
+    "url": "https://github.com/alash3al/stash",
+    "stars": 646,
+    "stars_gained": 646,
+    "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "language": "Go",
+    "created_at": "2026-04-24T22:05:12Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "sandeco/reversa",
+    "url": "https://github.com/sandeco/reversa",
+    "stars": 578,
+    "stars_gained": 578,
+    "description": "Transform legacy systems into executable specifications for AI coding agents",
+    "language": "JavaScript",
+    "created_at": "2026-04-26T13:47:10Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "noonghunna/club-3090",
+    "url": "https://github.com/noonghunna/club-3090",
+    "stars": 507,
+    "stars_gained": 507,
+    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1\u00d7 and 2\u00d7 cards.",
+    "language": "Python",
+    "created_at": "2026-04-28T10:08:59Z",
+    "fde_relevance": "Emerging tool \u2014 monitor for client relevance",
+    "fde_use_case": "Thought leadership share \u2192 gauge client interest"
+  },
+  {
+    "name": "chekusu/wanman",
+    "url": "https://github.com/chekusu/wanman",
+    "stars": 503,
+    "stars_gained": 503,
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
+    "language": "TypeScript",
+    "created_at": "2026-04-22T14:17:57Z",
+    "fde_relevance": "Debugging/Observability \u2014 essential for production client systems",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "Snaplii-Inc/agent-to-merchant-payments",
+    "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+    "stars": 459,
+    "stars_gained": 459,
+    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+    "language": "Python",
+    "created_at": "2026-04-27T23:12:18Z",
+    "fde_relevance": "AI agent tooling \u2014 fastest growing client need",
+    "fde_use_case": "Pilot program for clients exploring multi-agent systems"
+  },
+  {
+    "name": "warpdot-dev/composio",
+    "url": "https://github.com/warpdot-dev/composio",
+    "stars": 229,
+    "stars_gained": 229,
+    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
+    "language": "TypeScript",
+    "created_at": "2026-05-01T07:19:17Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  },
+  {
+    "name": "h9-tec/llm-systems-engineering-roadmap",
+    "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap",
+    "stars": 121,
+    "stars_gained": 121,
+    "description": "A practical roadmap for mastering LLM internals, training, inference, RAG, agents, evaluation, and production architecture.",
+    "language": null,
+    "created_at": "2026-04-25T13:18:12Z",
+    "fde_relevance": "RAG infrastructure \u2014 core to enterprise knowledge systems",
+    "fde_use_case": "Architecture review for RAG-heavy clients"
+  }
+]
